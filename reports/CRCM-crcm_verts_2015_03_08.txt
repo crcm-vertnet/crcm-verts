@@ -1,0 +1,212 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 1549
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Finland ; Times: 2
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: South Africa ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 77
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 3
+	Date: 2015-02-03 ; Times: 7
+	Date: 2015-02-04 ; Times: 12
+	Date: 2015-02-05 ; Times: 11
+	Date: 2015-02-06 ; Times: 5
+	Date: 2015-02-09 ; Times: 4
+	Date: 2015-02-11 ; Times: 7
+	Date: 2015-02-12 ; Times: 13
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-14 ; Times: 2
+	Date: 2015-02-16 ; Times: 2
+	Date: 2015-02-17 ; Times: 3
+	Date: 2015-02-18 ; Times: 4
+	Date: 2015-02-19 ; Times: 6
+	Date: 2015-02-20 ; Times: 3
+	Date: 2015-02-21 ; Times: 3
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 2
+	Date: 2015-02-24 ; Times: 5
+	Date: 2015-02-25 ; Times: 8
+	Date: 2015-02-26 ; Times: 4
+	Date: 2015-02-27 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: ""empidonax traillii"" ; Times: 1
+	Query: "pygmy nuthatch" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "tamiasciurus" ; Times: 1
+	Query: "Marmota olympus" ; Times: 1
+	Query: "golden-crowned sparrow" ; Times: 2
+	Query: "cardinalis cardinalis" ; Times: 2
+	Query: "Cardinalis" ; Times: 1
+	Query: "type:specimen specificepithet:domestica genus:monodelphis year >= 1950 year <= 2015" ; Times: 1
+	Query: "Melospiza type:specimen year >= 1950 year <= 2015 tissue:1" ; Times: 1
+	Query: "McClure" ; Times: 1
+	Query: "empidonax traillii" ; Times: 1
+	Query: "Aegolius tissue:1" ; Times: 1
+	Query: ""OS"" ; Times: 1
+	Query: "Athene" ; Times: 2
+	Query: "Falco peregrinus eggs" ; Times: 1
+	Query: "wing and tail" ; Times: 1
+	Query: "hooded warbler" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "colaptes auratus" ; Times: 2
+	Query: "OTUS tissue:1" ; Times: 1
+	Query: "county:"Hall" stateprovince:"Nebraska" year <= 2015" ; Times: 1
+	Query: "callipepla californica mappable:1" ; Times: 3
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: ""dendroica petechia" (idaho) mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:flammeolus tissue:1" ; Times: 1
+	Query: "bank swallow" ; Times: 1
+	Query: "Carpodacus" ; Times: 1
+	Query: "Chen caerulescens" ; Times: 3
+	Query: "common redpoll" ; Times: 3
+	Query: "stork" ; Times: 1
+	Query: "Cardinalis cardinalis type:specimen year >= 1950 year <= 2014" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "parakeet" ; Times: 1
+	Query: "great horned owl" ; Times: 1
+	Query: "puma concolor" ; Times: 3
+	Query: ""empidonax traillii" type:specimen mappable:1" ; Times: 1
+	Query: "melospiza melodia yakima" ; Times: 1
+	Query: "solenodon" ; Times: 1
+	Query: "deer mouse" ; Times: 3
+	Query: "Puma concolor type:specimen" ; Times: 1
+	Query: "Cardinalis cardinalis type:specimen year <= 2014" ; Times: 1
+	Query: "class:aves (guzman)" ; Times: 1
+	Query: "pangolin" ; Times: 2
+	Query: "Cardinalis cardinalis type:specimen" ; Times: 1
+	Query: "Gallus gallus" ; Times: 1
+	Query: "chickadee" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 5
+	Query: "Alouatta pigra" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "CRCM" ; Times: 2
+	Query: "turdus migratorius" ; Times: 1
+	Query: "OS Melospiza" ; Times: 1
+	Query: "Mammal" ; Times: 1
+	Query: "stateprovince:"north carolina" distance(location,geopoint(35.24113278166642,-83.39996337890625))<100000" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "Cardinalis type:specimen" ; Times: 1
+	Query: "Callipepla californica mappable:1" ; Times: 7
+	Query: "S. carolinensis" ; Times: 1
+	Query: "european starling" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "Turnix sylvaticus" ; Times: 1
+	Query: "Colorado mammal" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "gallinula chloropus" ; Times: 1
+	Query: "piranga ludoviciana johnson" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "callipepla californica" ; Times: 2
+	Query: "genus:melospiza specificepithet:melodia year:1936" ; Times: 1
+	Query: "Melospiza melodia stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "common grackle" ; Times: 1
+	Query: "Callipepla" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Mark here" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Callipepla Californica mappable:1" ; Times: 3
+	Query: "hummingbird mappable:1" ; Times: 1
+	Query: "OS" ; Times: 2
+	Query: "genus:melospiza" ; Times: 1
+	Query: "county:"Okanogan" stateprovince:"Washington" specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "country:"Mexico" genus:Eira" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 326 download events in this period)
+Total number of records downloaded: 477 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 439
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 2
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 2
+	Date: 2015-02-10 ; Times: 2
+	Date: 2015-02-11 ; Times: 4
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-16 ; Times: 2
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 3
+	Date: 2015-02-25 ; Times: 5
+	Date: 2015-02-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Oregon" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Melospiza type:specimen year >= 1950 year <= 2015 tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:tamias year >= 1970 year <= 2015" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Falco peregrinus eggs" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: "Delphinus Delphis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "stateprovince:"Michigan" specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "genus:Glaucomys tissue:1" ; Times: 1
+	Query: "Sciurus niger tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:Tamias year >= 1965 year <= 2015" ; Times: 2
+	Query: "type:specimen specificepithet:floridana genus:neotoma year >= 1950 year <= 1970" ; Times: 1
+	Query: "stateprovince:"Ohio" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "genus:Balaena" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "genus:Tursiops" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "Carnivora county:"Los Angeles" stateprovince:"California" class:Mammalia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1025
+Total number of records retrieved from searches: 11849
+Number of download events that retrieved data from the resource: 119
+Total number of records downloaded: 5438
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1212
+Total number of records retrieved from searches: 14420
+Number of download events that retrieved data from the resource: 675
+Total number of records downloaded: 89031
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
