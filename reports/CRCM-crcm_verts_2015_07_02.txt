@@ -1,0 +1,318 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 206
+Number of records retrieved in searches: 1303
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 12
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 166
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-02 ; Times: 14
+	Date: 2015-06-03 ; Times: 7
+	Date: 2015-06-04 ; Times: 3
+	Date: 2015-06-05 ; Times: 10
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 20
+	Date: 2015-06-09 ; Times: 15
+	Date: 2015-06-10 ; Times: 7
+	Date: 2015-06-11 ; Times: 3
+	Date: 2015-06-12 ; Times: 7
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 5
+	Date: 2015-06-16 ; Times: 9
+	Date: 2015-06-17 ; Times: 3
+	Date: 2015-06-18 ; Times: 8
+	Date: 2015-06-19 ; Times: 9
+	Date: 2015-06-20 ; Times: 4
+	Date: 2015-06-21 ; Times: 3
+	Date: 2015-06-22 ; Times: 5
+	Date: 2015-06-23 ; Times: 9
+	Date: 2015-06-24 ; Times: 14
+	Date: 2015-06-25 ; Times: 10
+	Date: 2015-06-26 ; Times: 15
+	Date: 2015-06-27 ; Times: 3
+	Date: 2015-06-28 ; Times: 1
+	Date: 2015-06-29 ; Times: 7
+	Date: 2015-06-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Dromaius novaehollandiae" ; Times: 2
+	Query: "marmot stateprovince:"MOntana"" ; Times: 1
+	Query: "insects" ; Times: 5
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 1
+	Query: "type:specimen AND (aves) distance(location,geopoint(42.73087427928485,-76.2451171875))<100000" ; Times: 1
+	Query: "aves Georgia United States Passerina ciris" ; Times: 3
+	Query: "baltimore oriole" ; Times: 1
+	Query: "Sorex" ; Times: 1
+	Query: "common eider skin" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:putorius genus:Spilogale" ; Times: 2
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "hudsonicus" ; Times: 1
+	Query: "Clapper Rail" ; Times: 1
+	Query: "prairie warbler" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Acryllium vulturinum" ; Times: 2
+	Query: "jaguar" ; Times: 2
+	Query: "cygnus" ; Times: 2
+	Query: "piping plover" ; Times: 1
+	Query: ""melospiza melodia" type:specimen tissue:1" ; Times: 1
+	Query: "mammal" ; Times: 2
+	Query: "Melospiza georgiana" ; Times: 1
+	Query: "Marmota Mt. Adams" ; Times: 2
+	Query: "Lasionycteris noctivagans stateprovince:"Washington"" ; Times: 2
+	Query: "Zonotrichia" ; Times: 1
+	Query: "Myotis volans stateprovince:"Washington"" ; Times: 1
+	Query: "empidonax traillii" ; Times: 1
+	Query: "snow bunting type:specimen" ; Times: 1
+	Query: "cleveland" ; Times: 1
+	Query: "recordedby:ed. hill" ; Times: 1
+	Query: "Myzomela rubratra" ; Times: 1
+	Query: "Antrozous pallidus stateprovince:"Washington"" ; Times: 3
+	Query: "melospiza georgiana" ; Times: 1
+	Query: "asio" ; Times: 1
+	Query: ""melospiza melodia" tissue:1" ; Times: 2
+	Query: "aves Georgia United States Melospiza melodia" ; Times: 2
+	Query: "aves Georgia United States Icteria virens" ; Times: 1
+	Query: "numida" ; Times: 1
+	Query: "aves Georgia United States motacilla" ; Times: 2
+	Query: "Callipepla californica year >= 1990 year <= 2015" ; Times: 1
+	Query: "black-chinned" ; Times: 1
+	Query: "aves Georgia United States Catharus minimus" ; Times: 2
+	Query: "aves Georgia United States Piranga rubra 19" ; Times: 1
+	Query: "Myotis ciliolabrum stateprovince:"Washington"" ; Times: 1
+	Query: "red-faced cormorant type:specimen" ; Times: 2
+	Query: "aves Georgia United States Dendroica pinus" ; Times: 1
+	Query: "stateprovince:"Alaska" specificepithet:fusca genus:Melanitta year >= 1955 year <= 1960" ; Times: 1
+	Query: "Canis aureus" ; Times: 2
+	Query: "aves Georgia United States Icterus galbula" ; Times: 1
+	Query: "Butorides" ; Times: 1
+	Query: "stateprovince:"Alaska" genus:Passerella year >= 1955 year <= 1960" ; Times: 1
+	Query: "anas formosa" ; Times: 1
+	Query: "trogon citreolus" ; Times: 1
+	Query: "Ochotona stateprovince:"Montana" year >= 1930 year <= 1979" ; Times: 1
+	Query: "cowan vertebrate museum" ; Times: 1
+	Query: ""ammodramus savannarum"" ; Times: 1
+	Query: "ursus stateprovince:"montana"" ; Times: 1
+	Query: "hermit thrush" ; Times: 2
+	Query: "vermivora ruficapilla" ; Times: 1
+	Query: "Myotis evotis stateprovince:"Washington"" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "western vertebrate museum" ; Times: 1
+	Query: "red-faced cormorant" ; Times: 3
+	Query: "neglecta" ; Times: 1
+	Query: "Zonotrichia leucophrys leucophrys" ; Times: 1
+	Query: "aves Georgia United States Pipilo erythrophthalmus" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Bubo virginianus type:specimen" ; Times: 1
+	Query: "amoena" ; Times: 1
+	Query: "numida meleagris" ; Times: 1
+	Query: "zonotrichia leucophrys leucophrys type:specimen tissue:1" ; Times: 4
+	Query: "turkey" ; Times: 1
+	Query: "aves Georgia United States Toxostoma rufum" ; Times: 3
+	Query: "Red-naped sapsucker type:specimen" ; Times: 1
+	Query: "spizella passerina class:aves" ; Times: 1
+	Query: "aves Georgia United States Dendroica tigrina" ; Times: 1
+	Query: "francolinus clappertoni" ; Times: 4
+	Query: "county:"whatcom" genus:neurotrichus" ; Times: 1
+	Query: "rynchops" ; Times: 2
+	Query: "Iceland Gull" ; Times: 3
+	Query: "Butorides virescens" ; Times: 1
+	Query: "dark-eyed junco" ; Times: 1
+	Query: "asio otus" ; Times: 1
+	Query: "melospiza melodia" ; Times: 3
+	Query: "aves Georgia United States Catharus fuscescens" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "Myotis thysanodes stateprovince:"Washington"" ; Times: 1
+	Query: "Zonotrichia leucophrys leucophrys type:specimen tissue:1" ; Times: 1
+	Query: "clapper rail" ; Times: 2
+	Query: "barn swallow" ; Times: 1
+	Query: "burrowing owl" ; Times: 1
+	Query: "Accipiter cooperii" ; Times: 1
+	Query: "pika stateprovince:"Montana" year >= 1800 year <= 1979" ; Times: 1
+	Query: "mockingbird" ; Times: 1
+	Query: "black-chinned hummingbird" ; Times: 2
+	Query: "Ochotona princeps (Montana) year <= 1980" ; Times: 1
+	Query: "carduelis pinus" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "aves Georgia United States Setophaga ruticilla" ; Times: 1
+	Query: "numida year >= 1960 year <= 1989" ; Times: 1
+	Query: "Ochotona princeps stateprovince:"Montana" year >= 1800 year <= 1979" ; Times: 1
+	Query: "Spilogale putorius stateprovince:"Texas"" ; Times: 1
+	Query: "archilochus alexandri" ; Times: 1
+	Query: "mammalia 10757" ; Times: 1
+	Query: "aves Georgia United States Piranga rubra" ; Times: 3
+	Query: "Lasiurus cinereus stateprovince:"Washington"" ; Times: 3
+	Query: "cardinal" ; Times: 4
+	Query: "Numida meleagris meleagris" ; Times: 1
+	Query: "test" ; Times: 1
+	Query: "Swamp Sparrow" ; Times: 1
+	Query: "Empidonax year >= 1900 year <= 2015 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: "family:Ursidae stateprovince:"Washington" country:"United States" (skeleton)" ; Times: 1
+	Query: "stateprovince:"Montana" year >= 1800 year <= 1979" ; Times: 1
+	Query: "puma "United states"" ; Times: 1
+	Query: "aves Georgia United States Dendroica striata" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "carpodacus" ; Times: 1
+	Query: "aves Georgia United States georgiana" ; Times: 1
+	Query: "cleveland museum" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "zonotrichia oriantha tissue:1" ; Times: 3
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "gage county nebraska" ; Times: 1
+	Query: "Taxidea taxus tissue:1" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "Corynorhinus townsendii stateprovince:"Washington"" ; Times: 3
+	Query: "selasphorus rufus" ; Times: 2
+	Query: "accipiter soloensis" ; Times: 2
+	Query: "Empidonax traillii" ; Times: 1
+	Query: "Zonotrichia leucophrys" ; Times: 1
+	Query: "Corynorhinus townsendii stateprovince:"oregon"" ; Times: 1
+	Query: "setophaga ruticilla" ; Times: 8
+	Query: "aves Georgia United States Dendroica pensylvanica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 1524 download events in this period)
+Total number of records downloaded: 1230 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1004
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Denmark ; Times: 7
+	Country: France ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 54
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-05 ; Times: 4
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-08 ; Times: 3
+	Date: 2015-06-09 ; Times: 21
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 4
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 6
+	Date: 2015-06-22 ; Times: 1
+	Date: 2015-06-25 ; Times: 4
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-29 ; Times: 6
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "myzomela" ; Times: 1
+	Query: "Lasionycteris noctivagans stateprovince:"Washington"" ; Times: 2
+	Query: "Myotis volans stateprovince:"Washington"" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Myotis volans country:"United States"" ; Times: 1
+	Query: "snow bunting type:specimen" ; Times: 1
+	Query: "Myotis yumanensis country:"United States"" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 2
+	Query: "Antrozous pallidus stateprovince:"Washington"" ; Times: 1
+	Query: "Onychorhynchus" ; Times: 1
+	Query: "Corynorhinus townsendii country:"United States"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Calypte costae" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Lasiurus cinereus country:"United States"" ; Times: 1
+	Query: "Veracruz mammals" ; Times: 1
+	Query: "Spilogale putorius stateprovince:"Texas"" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 1
+	Query: "family:trochilidae AND skeleton type:specimen" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "Lasiurus cinereus stateprovince:"Washington"" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Myotis ciliolabrum stateprovince:"Washington"" ; Times: 1
+	Query: "Cynanthus latirostris" ; Times: 1
+	Query: "red-faced cormorant type:specimen" ; Times: 2
+	Query: "Eptesicus fuscus stateprovince:"Washington"" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "Myotis californicus stateprovince:"Washington"" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "type:specimen country:"United States" specificepithet:pennanti class:Mammalia" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "pelagic cormorant type:specimen" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "Antrozous pallidus country:"United States"" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "Canis aureus" ; Times: 1
+	Query: "type:specimen AND (aves) distance(location,geopoint(42.73087427928485,-76.2451171875))<100000" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+	Query: "Myotis evotis country:"United States"" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "elanus leucurus stateprovince:"California"" ; Times: 1
+	Query: "family:meliphagidae AND skeleton type:specimen" ; Times: 1
+	Query: "tufted puffin type:specimen" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Myotis thysanodes country:"United States"" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "Corynorhinus townsendii stateprovince:"Washington"" ; Times: 1
+	Query: "Myotis yumanensis stateprovince:"Washington"" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "black-legged kittiwake type:specimen" ; Times: 1
+	Query: "anas rubripes" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "Myotis thysanodes stateprovince:"Washington"" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "Eptesicus fuscus country:"United States"" ; Times: 2
+	Query: "Myotis evotis stateprovince:"Washington"" ; Times: 1
+	Query: "Myotis lucifugus stateprovince:"Washington"" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"United States"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1500
+Total number of records retrieved from searches: 16586
+Number of download events that retrieved data from the resource: 293
+Total number of records downloaded: 50599
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1687
+Total number of records retrieved from searches: 19157
+Number of download events that retrieved data from the resource: 849
+Total number of records downloaded: 134192
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
