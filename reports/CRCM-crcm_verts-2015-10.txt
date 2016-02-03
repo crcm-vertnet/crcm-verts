@@ -1,0 +1,272 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 163
+Number of records retrieved in searches: 1165
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 5
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 134
+	Country: United Kingdom ; Times: 3
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-17 ; Times: 3
+	Date: 2015-10-14 ; Times: 19
+	Date: 2015-10-15 ; Times: 3
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 10
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 8
+	Date: 2015-10-29 ; Times: 9
+	Date: 2015-10-28 ; Times: 9
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 12
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-24 ; Times: 8
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 12
+	Date: 2015-10-20 ; Times: 8
+	Date: 2015-10-05 ; Times: 6
+	Date: 2015-10-07 ; Times: 1
+	Date: 2015-10-06 ; Times: 9
+	Date: 2015-10-01 ; Times: 14
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 7
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "weight specificepithet:maniculatus genus:Peromyscus country:&#34;United States&#34;" ; Times: 1
+	Query: "chaetura (skel OR skeleton)" ; Times: 1
+	Query: "Falco sparverius type:specimen" ; Times: 1
+	Query: "fluid preservation" ; Times: 1
+	Query: "Junco tissue:1" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "class:Mammalia Sciuridae" ; Times: 1
+	Query: "Buteo Lineatus" ; Times: 1
+	Query: "house sparrow" ; Times: 1
+	Query: "MARIANA FRUIT-DOVE" ; Times: 3
+	Query: "puma concolor" ; Times: 5
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "type:specimen genus:acinonyx" ; Times: 5
+	Query: "nest class:aves" ; Times: 3
+	Query: "ferret" ; Times: 1
+	Query: "Echinops telfairi" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "(strix)" ; Times: 1
+	Query: "weight genus:Peromyscus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:acinonyx" ; Times: 1
+	Query: "piping plover" ; Times: 4
+	Query: "Acryllium vulturinum year &gt;= 1920" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "american wigeon" ; Times: 3
+	Query: "aves California" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "white-tailed tropicbird" ; Times: 6
+	Query: "vampire" ; Times: 7
+	Query: "tree sparrow" ; Times: 1
+	Query: "stellula calliope tissue:1" ; Times: 1
+	Query: "lincoln county washington rodentia" ; Times: 1
+	Query: "Callipepla californica" ; Times: 2
+	Query: "willow creek" ; Times: 2
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Dendragapus obscurus" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "class:Mammalia sylvilagus" ; Times: 2
+	Query: "PUMA" ; Times: 1
+	Query: "klickitat Microtus" ; Times: 1
+	Query: "Sciuridae" ; Times: 1
+	Query: "accipiter cooperii" ; Times: 1
+	Query: "francolinus icterorhynchus" ; Times: 7
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Birds:89-224&#34;" ; Times: 1
+	Query: "klickitat Tamias" ; Times: 1
+	Query: "ovenbird" ; Times: 1
+	Query: "kit fox" ; Times: 2
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "lagomorpha" ; Times: 3
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "county:&#34;Fulton&#34; stateprovince:&#34;Georgia&#34;" ; Times: 2
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "castanea" ; Times: 1
+	Query: "Odocoileus virginianus and idaho" ; Times: 1
+	Query: "specificepithet:jubatus genus:Acinonyx" ; Times: 1
+	Query: "Iceland Gull" ; Times: 6
+	Query: "squirrel" ; Times: 2
+	Query: "struthio camelus (skel OR skeleton)" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "Falco sparverius type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "Accipiter striatus 1" ; Times: 1
+	Query: "Spilogale pygmaea" ; Times: 2
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "north american porcupine" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris" ; Times: 2
+	Query: "PHILANDER OPOSSUM MEXICO" ; Times: 1
+	Query: "preparations:skull" ; Times: 3
+	Query: "cervus nippon" ; Times: 1
+	Query: "francolinus clappertoni" ; Times: 2
+	Query: "Turdus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus country:United States" ; Times: 2
+	Query: "aegolius" ; Times: 1
+	Query: "Sylvilagus nuttallii" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 2
+	Query: "Odocoileus virginianus and washington" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "peromyscus maniculatus (colorado)" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "troglodytes" ; Times: 1
+	Query: "AG" ; Times: 1
+	Query: "sylvilagus" ; Times: 2
+	Query: "SCIURIDAE" ; Times: 1
+	Query: "specificepithet:griseus genus:limnodromus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 4
+	Query: "deer antler" ; Times: 4
+	Query: "Black-billed magpie" ; Times: 1
+	Query: "Numida meleagris year &gt;= 1920" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Sitta pusilla" ; Times: 1
+	Query: "setophaga ruticilla" ; Times: 1
+	Query: "lincoln county washington rodentia odessa" ; Times: 1
+	Query: "turdus migratorius" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 108 (out of 823 download events in this period)
+Total number of records downloaded: 3594
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 69
+	Country: Italy ; Times: 3
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 9
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 5
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 6
+	Date: 2015-10-29 ; Times: 9
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-27 ; Times: 5
+	Date: 2015-10-26 ; Times: 6
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-21 ; Times: 3
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 6
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-08 ; Times: 7
+	Date: 2015-10-30 ; Times: 16
+	Date: 2015-10-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "cervus nippon" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Junco tissue:1" ; Times: 1
+	Query: "bison priscus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "mouse texas" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;Washington&#34; year &gt;= 1960" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "american tree sparrow" ; Times: 1
+	Query: "white-tailed tropicbird" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "MARIANA FRUIT-DOVE" ; Times: 2
+	Query: "deer antler" ; Times: 2
+	Query: "north american porcupine" ; Times: 2
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Cyanocitta stelleri type:specimen stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "sora" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "lontra canadensis" ; Times: 1
+	Query: "(Marinkelle)" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "ovis aries" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "canis latrans tissue:1" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "class:Mammalia" ; Times: 2
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "aeneus" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "cervus elaphus" ; Times: 1
+
+
+End of report.
