@@ -1,0 +1,364 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 231
+Number of records retrieved in searches: 1779
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 147
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 29
+	Country: Hong Kong ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 16
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 3
+	Date: 2015-09-10 ; Times: 13
+	Date: 2015-09-11 ; Times: 15
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 11
+	Date: 2015-09-15 ; Times: 14
+	Date: 2015-09-16 ; Times: 13
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-18 ; Times: 6
+	Date: 2015-09-19 ; Times: 6
+	Date: 2015-09-08 ; Times: 11
+	Date: 2015-09-30 ; Times: 7
+	Date: 2015-09-02 ; Times: 8
+	Date: 2015-09-29 ; Times: 20
+	Date: 2015-09-07 ; Times: 7
+	Date: 2015-09-06 ; Times: 3
+	Date: 2015-09-05 ; Times: 5
+	Date: 2015-09-04 ; Times: 5
+	Date: 2015-09-03 ; Times: 10
+	Date: 2015-09-28 ; Times: 5
+	Date: 2015-09-01 ; Times: 18
+	Date: 2015-09-25 ; Times: 8
+	Date: 2015-09-24 ; Times: 3
+	Date: 2015-09-27 ; Times: 7
+	Date: 2015-09-26 ; Times: 9
+	Date: 2015-09-21 ; Times: 3
+	Date: 2015-09-20 ; Times: 3
+	Date: 2015-09-09 ; Times: 8
+	Date: 2015-09-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ammospermophilus interpres" ; Times: 3
+	Query: "Odocoileus virginianus (dead)" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;Washington&#34; year &gt;= 1980 year &lt;= 2015" ; Times: 2
+	Query: "Taxidea" ; Times: 3
+	Query: "zonotrichia leucophrys" ; Times: 2
+	Query: "genus:Taxidea year &gt;= 1979 year &lt;= 2015" ; Times: 1
+	Query: "iptrecordid:&#34;urn:occurrence:Arctos:CUMV:Bird:19990:2349250&#34; OR &#34;urn:occurrence:Arctos:CUMV:Bird:21481:2257976&#34; OR &#34;0c8132dc-d036-4b20-808b-28465c159ffc&#34; OR &#34;37b64a95-d988-44b1-a8d9-411280b01ae1&#34; OR &#34;urn:occurrence:Arctos:CUMV:Bird:25222:2275844&#34; OR &#34;urn:occurrence:Arctos:CUMV:Bird:25225:2264946&#34; OR &#34;urn:occurrence:Arctos:CUMV:Bird:25241:2264949&#34; OR &#34;urn:occurrence:Arctos:CUMV:Bird:25291:2278179&#34; OR &#34;urn:catalog:CRCM:Birds:07-201&#34; OR &#34;urn:catalog:CRCM:Birds:48-331&#34; OR &#34;urn:catalog:CRCM:Birds:54-298&#34; OR &#34;urn:catalog:CRCM:Birds:56-356&#34; OR &#34;urn:catalog:CRCM:Birds:75-142&#34; OR &#34;urn:catalog:CRCM:Birds:78-399&#34; OR &#34;urn:catalog:CRCM:Birds:78-498&#34; OR &#34;urn:catalog:CRCM:Birds:78-499&#34; OR &#34;urn:catalog:CRCM:Birds:83-253&#34; OR &#34;urn:catalog:CRCM:Birds:86-254&#34; OR &#34;urn:catalog:CRCM:Birds:94-832&#34; OR &#34;urn:catalog:CRCM:Birds:98-3639&#34;" ; Times: 1
+	Query: "northern bobwhite" ; Times: 1
+	Query: "Sorex" ; Times: 1
+	Query: "merlin" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:putorius genus:Spilogale" ; Times: 4
+	Query: "Sylvilagus" ; Times: 1
+	Query: "Common Grackle" ; Times: 1
+	Query: "chaetura" ; Times: 1
+	Query: "stateprovince:&#34;Washington&#34; specificepithet:norvegicus genus:rattus" ; Times: 2
+	Query: "rissa brevirostris type:specimen (wing)" ; Times: 1
+	Query: "puma concolor" ; Times: 9
+	Query: "roadkill" ; Times: 1
+	Query: "genus:Taxidea stateprovince:&#34;Washington&#34; year &gt;= 1979 year &lt;= 2015" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "sagittarius" ; Times: 1
+	Query: "american badger" ; Times: 1
+	Query: "water shrew total" ; Times: 1
+	Query: "western red bat" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 4
+	Query: "Turdus migratorius" ; Times: 5
+	Query: "american robin" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 5
+	Query: "&#34;north american porcupine&#34;" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "uria aalge type:specimen institutioncode:CRCM (skin)" ; Times: 1
+	Query: "passerina caerulea" ; Times: 2
+	Query: "Colinus" ; Times: 1
+	Query: "Taxidea taxus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia" ; Times: 1
+	Query: "Colinus type:specimen" ; Times: 1
+	Query: "strix nebulosa" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 10
+	Query: "blue footed" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 2
+	Query: "myodes gapperi" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "sorex cinereus" ; Times: 2
+	Query: "vampire" ; Times: 3
+	Query: "uria lomvia type:specimen institutioncode:CRCM (skin)" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 4
+	Query: "red-winged blackbird" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "northern cardinal" ; Times: 1
+	Query: "puma concolor mappable:1" ; Times: 1
+	Query: "guttatus" ; Times: 1
+	Query: "Tringa melanoleuca" ; Times: 1
+	Query: "neomys fodiens" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "shrew" ; Times: 1
+	Query: "Pluvialis squatarola" ; Times: 2
+	Query: "Odocoileus virginianus (kill)" ; Times: 1
+	Query: "perdix (skel OR skeleton)" ; Times: 1
+	Query: "Trochilidae" ; Times: 1
+	Query: "christobal" ; Times: 1
+	Query: "rissa brevirostris type:specimen (skin)" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Birds:89-224&#34;" ; Times: 4
+	Query: "yellow-billed cuckoo Idaho" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 4
+	Query: "Swainson thrush" ; Times: 5
+	Query: "ocelot" ; Times: 1
+	Query: "type:specimen specificepithet:stelleri genus:Cyanocitta" ; Times: 1
+	Query: "aves california" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 2
+	Query: "flammulated owl" ; Times: 3
+	Query: "genus:setophaga tissue:1" ; Times: 1
+	Query: "genus:megascops tissue:1" ; Times: 2
+	Query: "distance(location,geopoint(43.19716728250127,-89.736328125))&lt;100000" ; Times: 1
+	Query: "caracara (skel OR skeleton)" ; Times: 1
+	Query: "stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "sorex" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Butorides virescens" ; Times: 2
+	Query: "Colinus type:specimen AND (virginianus)" ; Times: 1
+	Query: "pavo cristatus" ; Times: 2
+	Query: "taxidea taxus" ; Times: 1
+	Query: "setophaga ruticilla" ; Times: 2
+	Query: "beluga whale" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "Accipiter striatus 1" ; Times: 1
+	Query: "recordedby:myres year &gt;= 1958 year &lt;= 1958" ; Times: 1
+	Query: "uria aalge type:specimen institutioncode:CRCM (wing)" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 2
+	Query: "specificepithet:lapponicus genus:calcarius year &gt;= 1926 year &lt;= 1926" ; Times: 1
+	Query: "Oryzomys melanotis" ; Times: 1
+	Query: "dendragapus obscurus" ; Times: 6
+	Query: "genus:Cardellina mappable:1 tissue:1" ; Times: 2
+	Query: "specificepithet:phoeniceus genus:Agelaius" ; Times: 1
+	Query: "burrowing owl" ; Times: 2
+	Query: "Quiscalus quiscula (skin)" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "rissa tridactyla type:specimen institutioncode:CRCM (skin)" ; Times: 1
+	Query: "gallus gallus" ; Times: 1
+	Query: "Puma concolor" ; Times: 4
+	Query: "red-winged blackbird year &gt;= 1960 year &lt;= 2015" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 3
+	Query: "Mustelidae" ; Times: 1
+	Query: "white crowned" ; Times: 1
+	Query: "Chlidonias (skel OR skeleton)" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "Taxidea taxus stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "pygmy shrew" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "Hall Nebraska" ; Times: 1
+	Query: "class:aves recordedby:snodgrass" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "crocuta" ; Times: 4
+	Query: "mimus polyglottos" ; Times: 1
+	Query: "specificepithet:pusilla genus:Cardellina mappable:1 tissue:1" ; Times: 1
+	Query: "9 banded armadillo" ; Times: 1
+	Query: "spotted hyena" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "Taxidea taxus stateprovince:&#34;Washington&#34; tissue:1" ; Times: 3
+	Query: "otus" ; Times: 1
+	Query: "star nosed mole" ; Times: 1
+	Query: "polar bear skull" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 3
+	Query: "Myodes gapperi" ; Times: 2
+	Query: "alouatta pigra" ; Times: 1
+	Query: "turdus migratorius" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 176 (out of 1045 download events in this period)
+Total number of records downloaded: 36974
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 9
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 11
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 129
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 3
+	Date: 2015-09-10 ; Times: 34
+	Date: 2015-09-11 ; Times: 4
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 4
+	Date: 2015-09-15 ; Times: 16
+	Date: 2015-09-16 ; Times: 38
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-18 ; Times: 3
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-30 ; Times: 7
+	Date: 2015-09-28 ; Times: 2
+	Date: 2015-09-29 ; Times: 8
+	Date: 2015-09-07 ; Times: 3
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-02 ; Times: 8
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-25 ; Times: 3
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-08 ; Times: 2
+	Date: 2015-09-21 ; Times: 2
+	Date: 2015-09-20 ; Times: 3
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-22 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Irian" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 2
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 35
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Tamias amoenus" ; Times: 2
+	Query: "Alouatta pigra" ; Times: 3
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 2
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Sorex monticolus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "Spermophilus elegans" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "sciurus aureogaster" ; Times: 2
+	Query: "Papua" ; Times: 1
+	Query: "country:&#34;United States&#34; class:Aves" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Mammalia" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "type:specimen class:Aves year &gt;= 1960 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "&#34;Erethizon dorsatum&#34; mappable:1" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 9
+	Query: "dipodomys (chihuahua)" ; Times: 1
+	Query: "genus:megascops tissue:1" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "Spermophilus armatus" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "least weasel" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "class:Mammalia" ; Times: 2
+	Query: "genus:Cardellina mappable:1 tissue:1" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Sorex vagrans" ; Times: 1
+	Query: "Tamias minimus" ; Times: 5
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:Picoides" ; Times: 2
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Manis temminckii" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Onychomys leucogaster" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "Mississippi Aves" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "Zapus princeps" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 1
+
+
+End of report.
