@@ -1,0 +1,236 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 1473
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 123
+	Country: Netherlands ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 5
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Croatia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-24 ; Times: 4
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-03 ; Times: 58
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-13 ; Times: 7
+	Date: 2015-11-12 ; Times: 9
+	Date: 2015-11-15 ; Times: 2
+	Date: 2015-11-14 ; Times: 6
+	Date: 2015-11-17 ; Times: 3
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-06 ; Times: 3
+	Date: 2015-11-21 ; Times: 2
+	Date: 2015-11-22 ; Times: 3
+	Date: 2015-11-05 ; Times: 9
+	Date: 2015-11-08 ; Times: 3
+	Date: 2015-11-09 ; Times: 4
+	Date: 2015-11-29 ; Times: 3
+	Date: 2015-11-02 ; Times: 7
+	Date: 2015-11-25 ; Times: 2
+	Date: 2015-11-26 ; Times: 2
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-04 ; Times: 14
+	Date: 2015-11-23 ; Times: 1
+	Date: 2015-11-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:cetacea" ; Times: 1
+	Query: "type:specimen genus:Nandayus order:Psittaciformes year &gt;= 1900" ; Times: 1
+	Query: "sturnella" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "genus:Ursus stateprovince:(california OR wyoming)" ; Times: 1
+	Query: "dolphin" ; Times: 1
+	Query: "Sitta" ; Times: 1
+	Query: "class:Mammalia polar bear" ; Times: 1
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "Otis" ; Times: 1
+	Query: "Western Screech-Owl" ; Times: 1
+	Query: "apodidae" ; Times: 1
+	Query: "JFS" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 1
+	Query: "oriole" ; Times: 1
+	Query: "Ploceus jacksoni" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 3
+	Query: "falco peregrinus" ; Times: 1
+	Query: "Sorex" ; Times: 1
+	Query: "specificepithet:aurocapillus genus:Seiurus" ; Times: 1
+	Query: "eastern bluebird" ; Times: 1
+	Query: "specificepithet:tenellus genus:Sorex" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 3
+	Query: "type:specimen order:Psittaciformes (ochrocephala)" ; Times: 2
+	Query: "vampire" ; Times: 2
+	Query: "Douglas Fir" ; Times: 1
+	Query: "barred Owl" ; Times: 1
+	Query: "long-billed curlew year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "setophaga type:specimen tissue:1" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "Tragelaphus skin" ; Times: 2
+	Query: "chestnut-backed chickadee" ; Times: 1
+	Query: "Zonotrichia querula" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "cowan" ; Times: 1
+	Query: "marmota" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "type:specimen genus:Ara order:Psittaciformes (militaris)" ; Times: 1
+	Query: "long-billed curlew" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "selasphorus" ; Times: 1
+	Query: "setophaga" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "Buteo jamaicensis" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 71
+	Query: "taxidea taxus" ; Times: 3
+	Query: "colaptes" ; Times: 1
+	Query: "duck wings" ; Times: 1
+	Query: "sturnus vulgaris phylum" ; Times: 1
+	Query: "piranga rubra" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "Egretta tricolor" ; Times: 3
+	Query: "least weasel" ; Times: 1
+	Query: "peromyscus" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Pine Siskin" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:albicollis genus:zonotrichia" ; Times: 1
+	Query: "(selasphorus) AND (rufus)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "swine" ; Times: 1
+	Query: "short-tailed weasel" ; Times: 1
+	Query: "cerorhinca tissue:1" ; Times: 1
+	Query: "canyon wren" ; Times: 1
+	Query: "Salpinctes" ; Times: 1
+	Query: "Vireo olivaceus type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(24.046463999666567,-81.2109375))&lt;100000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 129 (out of 751 download events in this period)
+Total number of records downloaded: 79508
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 11
+	Country: France ; Times: 1
+	Country: United States ; Times: 95
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Japan ; Times: 8
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 4
+	Date: 2015-11-24 ; Times: 4
+	Date: 2015-11-30 ; Times: 5
+	Date: 2015-11-03 ; Times: 15
+	Date: 2015-11-11 ; Times: 3
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-13 ; Times: 5
+	Date: 2015-11-12 ; Times: 12
+	Date: 2015-11-15 ; Times: 4
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-17 ; Times: 3
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-06 ; Times: 4
+	Date: 2015-11-07 ; Times: 5
+	Date: 2015-11-23 ; Times: 4
+	Date: 2015-11-08 ; Times: 3
+	Date: 2015-11-09 ; Times: 3
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-02 ; Times: 8
+	Date: 2015-11-25 ; Times: 2
+	Date: 2015-11-26 ; Times: 12
+	Date: 2015-11-01 ; Times: 6
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-04 ; Times: 7
+	Date: 2015-11-05 ; Times: 9
+	Date: 2015-11-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Alces year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "cryptotis parva" ; Times: 1
+	Query: "Canis lupus North America" ; Times: 1
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Aves" ; Times: 1
+	Query: "Salpinctes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1977" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Rhipidura rufifrons" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "class:Mammalia" ; Times: 2
+	Query: "class:mammalia stateprovince:California" ; Times: 38
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "genus:Oxyura preparations:skeleton" ; Times: 1
+	Query: "ploceus" ; Times: 2
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "institutioncode:crcm aves" ; Times: 1
+	Query: "genus:Branta preparations:skeleton" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "mammalia type:specimen stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "puffinus" ; Times: 1
+	Query: "genus:Melanitta preparations:skeleton" ; Times: 1
+	Query: "class:Mammalia Cervus canadensis" ; Times: 2
+	Query: "genus:Bucephala preparations:skeleton" ; Times: 1
+	Query: "institutioncode:CRCM" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "procyon lotor" ; Times: 2
+	Query: "genus:Somateria preparations:skeleton" ; Times: 1
+	Query: "Sterna fuscata" ; Times: 1
+	Query: "Brown rat" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "genus:Anas preparations:skeleton" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "Myocastor" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "genus:Aythya preparations:skeleton" ; Times: 1
+	Query: "genus:Clangula preparations:skeleton" ; Times: 1
+	Query: "class:aves" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 5
+	Query: "Microtus californicus" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
