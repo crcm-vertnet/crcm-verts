@@ -1,0 +1,359 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 375
+Number of records retrieved in searches: 2954
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 12
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 11
+	Country: Denmark ; Times: 1
+	Country: Montenegro ; Times: 2
+	Country: United States ; Times: 275
+	Country: Germany ; Times: 11
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 36
+	Country: Norway ; Times: 3
+	Country: Russia ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 5
+	Date: 2016-04-07 ; Times: 10
+	Date: 2016-04-06 ; Times: 7
+	Date: 2016-04-05 ; Times: 28
+	Date: 2016-04-04 ; Times: 5
+	Date: 2016-04-21 ; Times: 31
+	Date: 2016-04-20 ; Times: 43
+	Date: 2016-04-23 ; Times: 11
+	Date: 2016-04-22 ; Times: 40
+	Date: 2016-04-25 ; Times: 13
+	Date: 2016-04-24 ; Times: 8
+	Date: 2016-04-09 ; Times: 13
+	Date: 2016-04-26 ; Times: 12
+	Date: 2016-04-08 ; Times: 8
+	Date: 2016-04-27 ; Times: 17
+	Date: 2016-04-18 ; Times: 8
+	Date: 2016-04-19 ; Times: 9
+	Date: 2016-04-14 ; Times: 20
+	Date: 2016-04-15 ; Times: 12
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 14
+	Date: 2016-04-10 ; Times: 8
+	Date: 2016-04-11 ; Times: 8
+	Date: 2016-04-12 ; Times: 20
+	Date: 2016-04-13 ; Times: 13
+	Date: 2016-04-03 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "monroe country year &gt;= 1912 year &lt;= 1928" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 2
+	Query: "mallard" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "Black Tern" ; Times: 1
+	Query: "pygmy rattlesnake" ; Times: 1
+	Query: "recurvirostra" ; Times: 1
+	Query: "Riparia riparia" ; Times: 3
+	Query: "Douglas Fir" ; Times: 2
+	Query: "rIPARIA RIPARIA" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo" ; Times: 1
+	Query: "jay" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1951 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "Baeolophus" ; Times: 1
+	Query: "family:Picidae preparations:skeleton" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1920 year &lt;= 1930 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "violacea" ; Times: 1
+	Query: "institutioncode:CRCM" ; Times: 1
+	Query: "Petrochelidon pyrrhonota" ; Times: 2
+	Query: "family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Calliope" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1955 year &lt;= 1960 mappable:1" ; Times: 2
+	Query: "N. Gale" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 5
+	Query: "riparia riparia" ; Times: 4
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "Dendroica tigrina" ; Times: 2
+	Query: "piping plover" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 81
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "loxia curvirostra" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 1920 year &lt;= 1930 mappable:1" ; Times: 1
+	Query: "family:Felidae tissue:1" ; Times: 2
+	Query: "Accipiter striatus 1" ; Times: 76
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "class:mammalia (weight) institutioncode:CRCM cervidae" ; Times: 1
+	Query: "regulus satrapa" ; Times: 1
+	Query: "sialia sialis" ; Times: 2
+	Query: "(weight)" ; Times: 1
+	Query: "specificepithet:maculata genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "Marmota" ; Times: 4
+	Query: "puma" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus mappable:1" ; Times: 1
+	Query: "broad winged hawk" ; Times: 1
+	Query: "vampire" ; Times: 10
+	Query: "birds from Turkey" ; Times: 1
+	Query: "passer domesticus tissue:1" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "Petrochelidon pyrrhonota type:specimen" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "institutioncode:crcm Psittacidae" ; Times: 7
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1985 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "Callipepla californica" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "type:specimen genus:Passer AND (domesticus) tissue:1" ; Times: 1
+	Query: "willow flycatcher" ; Times: 1
+	Query: "sitta canadensis" ; Times: 2
+	Query: "specificepithet:JUBATUS genus:ACINONYX family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "colaptes tissue:1" ; Times: 2
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "gallinula chloropus" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 9
+	Query: "peregrine falcon" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Birds:89-224&#34;" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "pteroglossus aracari type:specimen" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "institutioncode:crcm" ; Times: 2
+	Query: "M. Daily" ; Times: 1
+	Query: "mephitis macroura" ; Times: 1
+	Query: "whet owl" ; Times: 1
+	Query: "specificepithet:mesomelas genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "CRCM 04-109 tamiasciurus" ; Times: 1
+	Query: "pronghorn" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "Calliope calliope" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1870 year &lt;= 2015" ; Times: 1
+	Query: "class:Mammalia (weight) AND (rodentia)" ; Times: 1
+	Query: "CRCM 04-111 tamiasciurus" ; Times: 1
+	Query: "class:Mammalia (weight)" ; Times: 1
+	Query: "Swan Island United States" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:canis country:&#34;United States&#34; tissue:1" ; Times: 1
+	Query: "type:specimen genus:ara (militaris)" ; Times: 1
+	Query: "Otus" ; Times: 1
+	Query: "specificepithet:vespertinus genus:Coccothraustes" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1965 mappable:1" ; Times: 2
+	Query: "colaptes" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1975 mappable:1" ; Times: 2
+	Query: "CRCM 04-111" ; Times: 1
+	Query: "pelecanus" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "least weasel" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "type:specimen genus:Passer tissue:1" ; Times: 2
+	Query: "Nandayus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1955 mappable:1" ; Times: 2
+	Query: "Bucephala albeola" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2005 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "golden crowned kinglet" ; Times: 1
+	Query: "blackbird" ; Times: 1
+	Query: "specificepithet:MACULATA genus:GENETTA family:VIVERRIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "troglodytes aedon" ; Times: 1
+	Query: "birds from Europe" ; Times: 1
+	Query: "rock sandpiper" ; Times: 1
+	Query: "Agelaius phoeniceus" ; Times: 1
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo preparations:skin" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1985 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "specificepithet:jubatus genus:acinonyx family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "family:phyllostomidae order:chiroptera county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Mustelidae" ; Times: 2
+	Query: "buteo swainsoni" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "genus:Coccothraustes" ; Times: 1
+	Query: "odontophoridae" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "melospiza melodia" ; Times: 2
+	Query: "stateprovince:&#34;indiana&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1965 year &lt;= 1970 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 3
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "pinus" ; Times: 1
+	Query: "puma type:specimen" ; Times: 2
+	Query: "Troglodytes aedon" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 1
+	Query: "Troglodytes aedon tissue:1" ; Times: 1
+	Query: "class:mammalia preparations:skull (weight) institutioncode:CRCM" ; Times: 1
+	Query: "flicker" ; Times: 1
+	Query: "tanager" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 233 (out of 1312 download events in this period)
+Total number of records downloaded: 15393
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 46
+	Country: Unknown ; Times: 23
+	Country: India ; Times: 2
+	Country: United States ; Times: 151
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-03 ; Times: 4
+	Date: 2016-04-28 ; Times: 4
+	Date: 2016-04-07 ; Times: 7
+	Date: 2016-04-06 ; Times: 11
+	Date: 2016-04-05 ; Times: 9
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-21 ; Times: 24
+	Date: 2016-04-20 ; Times: 29
+	Date: 2016-04-23 ; Times: 16
+	Date: 2016-04-08 ; Times: 6
+	Date: 2016-04-25 ; Times: 11
+	Date: 2016-04-24 ; Times: 8
+	Date: 2016-04-27 ; Times: 12
+	Date: 2016-04-26 ; Times: 6
+	Date: 2016-04-22 ; Times: 7
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-14 ; Times: 15
+	Date: 2016-04-15 ; Times: 8
+	Date: 2016-04-16 ; Times: 4
+	Date: 2016-04-17 ; Times: 5
+	Date: 2016-04-10 ; Times: 6
+	Date: 2016-04-11 ; Times: 4
+	Date: 2016-04-12 ; Times: 9
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "Picidae mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1920 year &lt;= 1930 mappable:1" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Odocoileus" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter tissue:1" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1955 year &lt;= 1960 mappable:1" ; Times: 2
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1975 mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "class:aves" ; Times: 1
+	Query: "coahuila mammals" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2005 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "sciurus aberti" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1985 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1951 mappable:1" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 2
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1870 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "aves" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1970 mappable:1" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1960 year &lt;= 1965 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "Leopardus" ; Times: 1
+	Query: "Bonasa umbellus type:specimen tissue:1" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "thomomys bottae" ; Times: 3
+	Query: "class:Mammalia" ; Times: 12
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "mammals coahuila" ; Times: 4
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1985 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "hyena" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1950 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1965 year &lt;= 1970 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "mammals chihuahua" ; Times: 2
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 2000 year &lt;= 2010 mappable:1" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "toucan" ; Times: 1
+
+
+End of report.
