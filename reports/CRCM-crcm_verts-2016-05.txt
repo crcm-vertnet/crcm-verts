@@ -1,0 +1,160 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 1132
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 20
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 62
+	Country: United Kingdom ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 7
+	Date: 2016-05-18 ; Times: 3
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-14 ; Times: 2
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-11 ; Times: 2
+	Date: 2016-05-10 ; Times: 6
+	Date: 2016-05-31 ; Times: 18
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-09 ; Times: 4
+	Date: 2016-05-01 ; Times: 4
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-05 ; Times: 4
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-07 ; Times: 4
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 3
+	Date: 2016-05-25 ; Times: 4
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-21 ; Times: 3
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "birds of bc" ; Times: 1
+	Query: "american crow" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "Numida" ; Times: 1
+	Query: "Marmota olympus" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "Anas acuta AND hybrid" ; Times: 1
+	Query: "salpinctes" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Alouatta pIGRA" ; Times: 3
+	Query: "Gulo weight" ; Times: 1
+	Query: "Marmota" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "fox snake" ; Times: 1
+	Query: "meadowlark" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "vermivora" ; Times: 2
+	Query: "Marmota marmota" ; Times: 2
+	Query: "Dendrocygna minnesota" ; Times: 2
+	Query: "anser" ; Times: 1
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "Red Knot" ; Times: 1
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 1
+	Query: "Mustelidae" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "specificepithet:senex genus:Tamias institutioncode:CRCM" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "genus:Tamias institutioncode:CRCM" ; Times: 1
+	Query: "hawk" ; Times: 2
+	Query: "saw whet owl" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias institutioncode:CRCM" ; Times: 1
+	Query: "alouatta pigra" ; Times: 2
+	Query: "Accipiter striatus 1" ; Times: 31
+	Query: "primate" ; Times: 3
+	Query: "puma concolor" ; Times: 3
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "Synthliboramphus AND Santa Cruz" ; Times: 1
+	Query: "vermivora CM" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Passer domesticus" ; Times: 4
+	Query: "raptors" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 327 download events in this period)
+Total number of records downloaded: 4146
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 21
+	Country: China ; Times: 3
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 2
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 2
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 11
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-13 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "mongolia" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "type:specimen specificepithet:pallidus genus:Antrozous county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Peromyscus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "type:specimen specificepithet:townsendii genus:Corynorhinus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
