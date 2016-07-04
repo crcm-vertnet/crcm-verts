@@ -1,0 +1,291 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 337
+Number of records retrieved in searches: 2586
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 252
+	Country: Portugal ; Times: 20
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Mexico ; Times: 50
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Laos ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 6
+	Date: 2016-06-24 ; Times: 12
+	Date: 2016-06-23 ; Times: 17
+	Date: 2016-06-22 ; Times: 14
+	Date: 2016-06-21 ; Times: 25
+	Date: 2016-06-20 ; Times: 27
+	Date: 2016-06-05 ; Times: 13
+	Date: 2016-06-04 ; Times: 7
+	Date: 2016-06-07 ; Times: 7
+	Date: 2016-06-06 ; Times: 9
+	Date: 2016-06-01 ; Times: 19
+	Date: 2016-06-03 ; Times: 8
+	Date: 2016-06-02 ; Times: 15
+	Date: 2016-06-09 ; Times: 7
+	Date: 2016-06-08 ; Times: 10
+	Date: 2016-06-18 ; Times: 21
+	Date: 2016-06-19 ; Times: 12
+	Date: 2016-06-16 ; Times: 15
+	Date: 2016-06-17 ; Times: 7
+	Date: 2016-06-14 ; Times: 31
+	Date: 2016-06-15 ; Times: 16
+	Date: 2016-06-12 ; Times: 4
+	Date: 2016-06-13 ; Times: 14
+	Date: 2016-06-10 ; Times: 8
+	Date: 2016-06-11 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis aries" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "Charles R. Conner Museum baubellum" ; Times: 3
+	Query: "yellow warbler" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "bison bison   " ; Times: 9
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ligon" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ligon AND (-ypm)" ; Times: 1
+	Query: "magnolia warbler" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:libby" ; Times: 1
+	Query: "puma concolor" ; Times: 5
+	Query: "Charles R. Conner Museum baubellum Zapus" ; Times: 1
+	Query: "specificepithet:palustris genus:sorex county:&#34;whatcom&#34; stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Dumetella carolinensis" ; Times: 1
+	Query: "Charles R. Conner Museum Zapus trinotatus" ; Times: 1
+	Query: "oxpecker" ; Times: 6
+	Query: "alces alces   " ; Times: 3
+	Query: "8442 mammalia" ; Times: 1
+	Query: "MEGASCOPS KENNICOTTII" ; Times: 4
+	Query: "red bellied woodpecker" ; Times: 1
+	Query: "Charles R. Conner Museum" ; Times: 2
+	Query: "Columba livia" ; Times: 2
+	Query: "mallard" ; Times: 2
+	Query: "Yellow warbler" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 47
+	Query: "delphinus california" ; Times: 2
+	Query: "Falco peregrinus" ; Times: 2
+	Query: "Ixobrychus exilis" ; Times: 1
+	Query: "feathers" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 4
+	Query: "county:&#34;Hampton&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "dendroica magnolia AND (NOT Illinois) month &gt;= 5 month &lt;= 6" ; Times: 1
+	Query: "empidonax traillii" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "11139" ; Times: 3
+	Query: "Charles R. Conner Museum Zapus" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "Charadrius melodus" ; Times: 5
+	Query: "Sterna antillarum" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 2
+	Query: "Acorn Woodpecker county:&#34;Santa Clara&#34;" ; Times: 1
+	Query: "MYOTIS evotis evotis AND Island" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "Dendroica magnolia" ; Times: 1
+	Query: "clappertoni" ; Times: 1
+	Query: "Serinus mozambicus 1" ; Times: 2
+	Query: "anhinga" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "francolinus icterorhynchus" ; Times: 1
+	Query: "Springs AND Island NOT Mexico" ; Times: 1
+	Query: "11899" ; Times: 1
+	Query: "Sitta canadensis" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Thraupidae type:specimen" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "Oreoscoptes montanus" ; Times: 1
+	Query: "HEART" ; Times: 1
+	Query: "Acorn Woodpecker county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "francolinus hildebrandti" ; Times: 1
+	Query: "specificepithet:bendirii genus:sorex county:&#34;whatcom&#34; stateprovince:&#34;washington&#34;" ; Times: 2
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ligon institutioncode:CRCM" ; Times: 1
+	Query: "Accipiter cooperii AND Island" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 1
+	Query: "sorex" ; Times: 3
+	Query: "oak titmouse" ; Times: 1
+	Query: "numenius" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 2
+	Query: "vesper sparrow" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "eremophila alpestris" ; Times: 2
+	Query: "Charles R. Conner Museum Zapus trinotatus female" ; Times: 1
+	Query: "Estrilda troglodytes 1" ; Times: 3
+	Query: "Greater Yellowlegs" ; Times: 2
+	Query: "Marmota marmota 1" ; Times: 2
+	Query: "asio otus" ; Times: 2
+	Query: "primate" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "Accipiter striatus 1" ; Times: 81
+	Query: "francolinus afer" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "american redstart" ; Times: 1
+	Query: "locality:Saddlebag county:&#34;Mono&#34;" ; Times: 1
+	Query: "crax rubra" ; Times: 1
+	Query: "Charles R. Conner Museum baubellum Zapus trinotatus" ; Times: 1
+	Query: "Streptopelia risoria 1" ; Times: 2
+	Query: "francolinus clappertoni" ; Times: 1
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "woodpecker" ; Times: 1
+	Query: "aegolius" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 1
+	Query: "county:&#34;Hampton&#34;" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "neotoma fuscipes st*" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "buteo swainsoni" ; Times: 6
+	Query: "aegolius funereus" ; Times: 3
+	Query: "genus:bison" ; Times: 3
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "specificepithet:palustris genus:sorex stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 3
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ligon (crcm)" ; Times: 1
+	Query: "Louisiana Waterthrush type:specimen" ; Times: 1
+	Query: "Solenodon paradoxus" ; Times: 1
+	Query: "canis lupus   " ; Times: 4
+	Query: "anas cyanoptera" ; Times: 1
+	Query: "great gray owl" ; Times: 1
+	Query: "carolinus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 2
+	Query: "dendroica magnolia" ; Times: 5
+	Query: "genus: aegolius" ; Times: 2
+	Query: "setophaga ruticilla" ; Times: 3
+	Query: "Procyon lotor 1" ; Times: 2
+	Query: "Capra hircus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 155 (out of 1052 download events in this period)
+Total number of records downloaded: 15305
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 81
+	Country: Mexico ; Times: 64
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-22 ; Times: 4
+	Date: 2016-06-21 ; Times: 3
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-05 ; Times: 6
+	Date: 2016-06-04 ; Times: 4
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-03 ; Times: 4
+	Date: 2016-06-02 ; Times: 3
+	Date: 2016-06-23 ; Times: 7
+	Date: 2016-06-08 ; Times: 12
+	Date: 2016-06-18 ; Times: 9
+	Date: 2016-06-19 ; Times: 4
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-17 ; Times: 13
+	Date: 2016-06-14 ; Times: 20
+	Date: 2016-06-15 ; Times: 16
+	Date: 2016-06-12 ; Times: 3
+	Date: 2016-06-13 ; Times: 21
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "dipodomys microps" ; Times: 2
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "panthera leo" ; Times: 5
+	Query: "microtus townsendii" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "Tamias minimus" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "mammals" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "birds" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "carpodacus mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Acorn Woodpecker county:&#34;Santa Clara&#34;" ; Times: 2
+	Query: "Lepus americanus" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "magnolia warbler" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Chordata tissue:1" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "puma concolor" ; Times: 6
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
