@@ -1,0 +1,288 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 294
+Number of records retrieved in searches: 2480
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 102
+	Country: Czech Republic ; Times: 2
+	Country: Portugal ; Times: 22
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: Panama ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 137
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Japan ; Times: 15
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 9
+	Date: 2016-07-10 ; Times: 7
+	Date: 2016-07-13 ; Times: 13
+	Date: 2016-07-12 ; Times: 19
+	Date: 2016-07-15 ; Times: 3
+	Date: 2016-07-14 ; Times: 3
+	Date: 2016-07-17 ; Times: 8
+	Date: 2016-07-16 ; Times: 1
+	Date: 2016-07-19 ; Times: 16
+	Date: 2016-07-18 ; Times: 36
+	Date: 2016-07-20 ; Times: 19
+	Date: 2016-07-21 ; Times: 13
+	Date: 2016-07-05 ; Times: 2
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-25 ; Times: 7
+	Date: 2016-07-26 ; Times: 20
+	Date: 2016-07-27 ; Times: 11
+	Date: 2016-07-06 ; Times: 10
+	Date: 2016-07-07 ; Times: 10
+	Date: 2016-07-22 ; Times: 12
+	Date: 2016-07-23 ; Times: 2
+	Date: 2016-07-08 ; Times: 20
+	Date: 2016-07-09 ; Times: 10
+	Date: 2016-07-28 ; Times: 25
+	Date: 2016-07-29 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "melanerpes carolinus virginia" ; Times: 2
+	Query: "Aviary" ; Times: 2
+	Query: "L Huber" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "tufted puffin" ; Times: 6
+	Query: "Setophaga townsendi tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "chickadee" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Dendroica coronata tissue:1" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "class:aves stateprovince:&#34;michigan&#34; institutioncode:CRCM" ; Times: 1
+	Query: "institutioncode:CRCM" ; Times: 1
+	Query: "Limnodromus griseus" ; Times: 1
+	Query: "Zonotrichia leucophrys tissue:1" ; Times: 1
+	Query: "picoides pubescens" ; Times: 1
+	Query: "Colibri thalassinus year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Setophaga petechia tissue:1" ; Times: 1
+	Query: "Vireo gilvus tissue:1" ; Times: 1
+	Query: "Cygnus olor 1" ; Times: 1
+	Query: "University of Wisconsin" ; Times: 1
+	Query: "Western Meadowlark" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 107
+	Query: "Catharus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "sprouse" ; Times: 1
+	Query: "specificepithet:amoenus genus:Tamias stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "grouse" ; Times: 1
+	Query: "Pavo cristatus 1" ; Times: 1
+	Query: "Euphagus cyanocephalus tissue:1" ; Times: 1
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "class:Mammalia county:&#34;Spartanburg&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "Gracula religiosa 1" ; Times: 1
+	Query: "Pacific Loon" ; Times: 2
+	Query: "Petrochelidon pyrrhonota type:specimen" ; Times: 1
+	Query: "Poecile atricapillus tissue:1" ; Times: 1
+	Query: "piranga olivacea" ; Times: 2
+	Query: "&#34;Eurasian Collared-Dove&#34;" ; Times: 3
+	Query: "Dendragapus obscurus" ; Times: 1
+	Query: "sage thrasher nevada county" ; Times: 1
+	Query: "Serinus mozambicus 1" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(33.284619968887704,-81.650390625))&lt;100000" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "catalognumber:1215" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "(screech owl)" ; Times: 1
+	Query: "swallow" ; Times: 1
+	Query: "sage thrasher[" ; Times: 2
+	Query: "arctic fox" ; Times: 1
+	Query: "Serinus canaria 1" ; Times: 1
+	Query: "distance(location,geopoint(46.316584181822186,-116.103515625))&lt;100000" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "type:specimen specificepithet:semipalmatus class:aves AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Captive AND NOT Australia" ; Times: 1
+	Query: "specificepithet:tenellus genus:Sorex" ; Times: 1
+	Query: "type:specimen (carpodacus OR haemorhous AND Mexicanus) tissue:1" ; Times: 1
+	Query: "type:specimen catalognumber:3956" ; Times: 1
+	Query: "sorex preblei" ; Times: 2
+	Query: "glaucidium tissue:1" ; Times: 1
+	Query: "eremophila alpestris" ; Times: 1
+	Query: "Estrilda troglodytes 1" ; Times: 1
+	Query: "beluga" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 2
+	Query: "emperor penguin" ; Times: 1
+	Query: "gbifdatasetid:3a339645-d3b4-40aa-b891-f9c92dc554d8" ; Times: 2
+	Query: "Accipiter striatus 1" ; Times: 23
+	Query: "motacilla" ; Times: 2
+	Query: "Nyctereutes procyonoides 1" ; Times: 3
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "Poecile atricapilla tissue:1" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 2
+	Query: "strix varia" ; Times: 1
+	Query: "White-tailed Jackrabbit" ; Times: 1
+	Query: "Dendrohyrax arboreus" ; Times: 2
+	Query: "specificepithet:castanea genus:Dendroica" ; Times: 1
+	Query: "mourning dove" ; Times: 3
+	Query: "eubalaena japonica" ; Times: 2
+	Query: "Passerina amoena tissue:1" ; Times: 1
+	Query: "spilogale putorius institutioncode:CRCM" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "melanerpes lewis" ; Times: 1
+	Query: "Pheucticus melanocephalus tissue:1" ; Times: 3
+	Query: "Troglodytes" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 2
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 3
+	Query: "buteo swainsoni" ; Times: 6
+	Query: "Colibri thalassinus year &gt;= 1960 year &lt;= 1990" ; Times: 1
+	Query: "Vireo cassinii tissue:1" ; Times: 1
+	Query: "buccinator" ; Times: 4
+	Query: "stateprovince:&#34;indiana&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 1
+	Query: "Poecile rufescens tissue:1" ; Times: 1
+	Query: "san luis obispo county" ; Times: 1
+	Query: "Falco sparverius tissue:1" ; Times: 1
+	Query: "Callipepla californica 1" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "3a339645-d3b4-40aa-b891-f9c92dc554d8" ; Times: 1
+	Query: "catharus" ; Times: 2
+	Query: "Skeleton type:specimen specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "&#34;Anser albifrons&#34;" ; Times: 1
+	Query: "Melopsittacus undulatus 1" ; Times: 1
+	Query: "Geothlypis tolmiei tissue:1" ; Times: 1
+	Query: "Western red bat" ; Times: 2
+	Query: "Piranga ludoviciana tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 14
+	Query: "Catharus fuscescens tissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 206 (out of 1219 download events in this period)
+Total number of records downloaded: 14163
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 110
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Panama ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 76
+	Country: Colombia ; Times: 3
+	Country: Venezuela ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 12
+	Date: 2016-07-10 ; Times: 9
+	Date: 2016-07-13 ; Times: 13
+	Date: 2016-07-12 ; Times: 9
+	Date: 2016-07-15 ; Times: 1
+	Date: 2016-07-14 ; Times: 7
+	Date: 2016-07-17 ; Times: 7
+	Date: 2016-07-19 ; Times: 13
+	Date: 2016-07-18 ; Times: 11
+	Date: 2016-07-20 ; Times: 22
+	Date: 2016-07-21 ; Times: 9
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-24 ; Times: 6
+	Date: 2016-07-25 ; Times: 11
+	Date: 2016-07-26 ; Times: 10
+	Date: 2016-07-27 ; Times: 4
+	Date: 2016-07-06 ; Times: 2
+	Date: 2016-07-07 ; Times: 10
+	Date: 2016-07-22 ; Times: 8
+	Date: 2016-07-23 ; Times: 2
+	Date: 2016-07-08 ; Times: 10
+	Date: 2016-07-09 ; Times: 11
+	Date: 2016-07-28 ; Times: 12
+	Date: 2016-07-29 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Picoides villosus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:striatus genus:accipiter class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Potos flavus type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:albicollis genus:zonotrichia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Dipodomys venustus" ; Times: 1
+	Query: "eubalaena japonica" ; Times: 2
+	Query: "Passerina amoena tissue:1" ; Times: 1
+	Query: "Piranga ludoviciana tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:novemcinctus genus:dasypus" ; Times: 1
+	Query: "type:specimen specificepithet:cardinalis genus:cardinalis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "mammalia" ; Times: 5
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Vermivora ruficapilla tissue:1" ; Times: 1
+	Query: "marmota monax type:specimen" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis preparations:skin" ; Times: 1
+	Query: "type:specimen specificepithet:gramineus genus:pooecetes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Setophaga townsendi tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:sialis genus:sialia class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "spalacidae" ; Times: 1
+	Query: "Erethizon dorsatum type:specimen" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "type:specimen specificepithet:carolinus genus:melanerpes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:cyanea genus:passerina class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Michigan Mammalia" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "type:specimen (carpodacus OR haemorhous AND Mexicanus) tissue:1" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "macroscelididae type:specimen" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Euphagus cyanocephalus tissue:1" ; Times: 1
+	Query: "perognathus" ; Times: 2
+	Query: "Vireo cassinii tissue:1" ; Times: 1
+	Query: "Vireo gilvus tissue:1" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 115
+	Query: "type:specimen specificepithet:vespertinus genus:coccothraustes class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Reithrodontomys humulis type:specimen" ; Times: 1
+	Query: "Poecile atricapillus tissue:1" ; Times: 1
+	Query: "Antrozous pallidus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Poecile rufescens tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:crinitus genus:myiarchus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "family:dasypodidae" ; Times: 1
+	Query: "mammalia Mexico" ; Times: 4
+	Query: "type:specimen specificepithet:pusilla genus:spizella class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Colibri thalassinus year &gt;= 1950 year &lt;= 2015" ; Times: 2
+	Query: "Setophaga petechia tissue:1" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "Pheucticus melanocephalus tissue:1" ; Times: 1
+	Query: "Zonotrichia leucophrys tissue:1" ; Times: 1
+	Query: "buccinator" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "type:specimen specificepithet:aurocapillus genus:seiurus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "macroscelididae type:specimen preparations:skull" ; Times: 1
+	Query: "Skeleton type:specimen specificepithet:arctos genus:Ursus" ; Times: 3
+	Query: "&#34;Anser albifrons&#34;" ; Times: 1
+	Query: "Picoides pubescens tissue:1" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "Cavia porcellus type:specimen" ; Times: 2
+	Query: "Geothlypis tolmiei tissue:1" ; Times: 1
+	Query: "Pipilo maculatus tissue:1" ; Times: 1
+	Query: "motacilla" ; Times: 1
+	Query: "class:Mammalia" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "Poecile atricapilla tissue:1" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "type:specimen specificepithet:pensylvanica genus:dendroica class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "sorex preblei" ; Times: 1
+	Query: "Dipodomys" ; Times: 1
+	Query: "Dendroica coronata tissue:1" ; Times: 1
+	Query: "Catharus ustulatus tissue:1" ; Times: 1
+	Query: "Catharus fuscescens tissue:1" ; Times: 1
+
+
+End of report.
