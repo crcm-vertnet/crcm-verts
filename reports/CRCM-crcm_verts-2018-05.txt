@@ -1,0 +1,313 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 261
+Number of records retrieved in searches: 2373
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 15
+	Country: Belarus ; Times: 3
+	Country: Italy ; Times: 19
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 170
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 5
+	Country: United Kingdom ; Times: 26
+	Country: Colombia ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 3
+	Date: 2018-05-29 ; Times: 9
+	Date: 2018-05-20 ; Times: 4
+	Date: 2018-05-21 ; Times: 5
+	Date: 2018-05-22 ; Times: 5
+	Date: 2018-05-23 ; Times: 4
+	Date: 2018-05-24 ; Times: 12
+	Date: 2018-05-25 ; Times: 5
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-27 ; Times: 4
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 12
+	Date: 2018-05-04 ; Times: 33
+	Date: 2018-05-05 ; Times: 16
+	Date: 2018-05-02 ; Times: 8
+	Date: 2018-05-03 ; Times: 17
+	Date: 2018-05-01 ; Times: 9
+	Date: 2018-05-08 ; Times: 5
+	Date: 2018-05-09 ; Times: 13
+	Date: 2018-05-31 ; Times: 8
+	Date: 2018-05-30 ; Times: 2
+	Date: 2018-05-15 ; Times: 15
+	Date: 2018-05-14 ; Times: 8
+	Date: 2018-05-17 ; Times: 10
+	Date: 2018-05-16 ; Times: 17
+	Date: 2018-05-11 ; Times: 7
+	Date: 2018-05-10 ; Times: 10
+	Date: 2018-05-13 ; Times: 3
+	Date: 2018-05-12 ; Times: 3
+	Date: 2018-05-19 ; Times: 5
+	Date: 2018-05-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 2
+	Query: "Great Egret" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Onychorhynchus" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "porzana porzana vntype:specimen hastissue:1" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "white-breasted nuthatch" ; Times: 1
+	Query: "distance(location,geopoint(45.0857843155001,-92.5427866625))&lt;18502" ; Times: 2
+	Query: "specificepithet:virens genus:Contopus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:venustus genus:Granatellus" ; Times: 1
+	Query: "specificepithet:flavipes genus:tringa year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "american crow" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "Catharus fuscescens month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "class:aves locality:steens" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Haemorhous year &gt;= 1900 year &lt;= 1990" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 9
+	Query: "band-tailed pigeon" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "specificepithet:striatus genus:Accipiter hastissue:1" ; Times: 1
+	Query: "Phainopepla nitens" ; Times: 1
+	Query: "Larus smithsonianus" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "distance(location,geopoint(44.7957496956751,-91.7467886332316))&lt;28569" ; Times: 1
+	Query: "specificepithet:rufescens genus:Aimophila" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Washington&#34; preparations:skin" ; Times: 1
+	Query: "distance(location,geopoint(44.2351364775,-91.8368762249999))&lt;29242" ; Times: 2
+	Query: "specificepithet:leucorhoa genus:Oceanodroma" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Haemorhous year &gt;= 1900 year &lt;= 1960" ; Times: 1
+	Query: "vntype:specimen continent:NORTH AMERICA recordedby:ARMSTRONG year &gt;= 1941 month &gt;= 10 month &lt;= 11" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Catherpes hasmass:1" ; Times: 1
+	Query: "western sandpiper" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "specificepithet:pumilo genus:Cyanolyca" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 36
+	Query: "specificepithet:gallopavo genus:Meleagris mappable:1" ; Times: 5
+	Query: "specificepithet:chrysater genus:Icterus" ; Times: 1
+	Query: "song sparrow vntype:specimen year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 12
+	Query: "specificepithet:parellina genus:Cyanocompsa" ; Times: 1
+	Query: "distance(location,geopoint(37.6772884172284,-89.0633709977937))&lt;27695" ; Times: 1
+	Query: "specificepithet:ophthalmicus genus:Chlorospingus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "varied thrush" ; Times: 1
+	Query: "Sylvilagus nuttallii" ; Times: 1
+	Query: "Falco cherrug" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "african Elephant" ; Times: 2
+	Query: "specificepithet:linearis genus:Chiroxiphia" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 2
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Haemorhous year &gt;= 1900 year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:ruficauda genus:Peucaea" ; Times: 1
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:yucatanicus genus:Cyanocorax" ; Times: 1
+	Query: "red-winged blackbird" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 2
+	Query: "specificepithet:pictus genus:Chrysolophus mappable:1" ; Times: 6
+	Query: "pine snake" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Cinclus" ; Times: 1
+	Query: "Long-billed Dowitcher" ; Times: 3
+	Query: "specificepithet:mexicanus genus:Haemorhous year &gt;= 1900 year &lt;= 20160" ; Times: 1
+	Query: "specificepithet:solitaria genus:tringa year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "willow flycatcher" ; Times: 1
+	Query: "specificepithet:formosa genus:Calocitta" ; Times: 1
+	Query: "(&#34;dolly sods&#34;)" ; Times: 1
+	Query: "specificepithet:wagleri genus:Psarocolius" ; Times: 1
+	Query: "specificepithet:gallopavo genus:Meleagris year &gt;= 1890 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:pygmaea genus:Sitta" ; Times: 1
+	Query: "genus:puma" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Catharus" ; Times: 1
+	Query: "family:Phalacrocoracidae preparations:skeleton" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Haemorhous year &gt;= 1900 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:souleyetii genus:Lepidocolaptes" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Oxyura mappable:1 year&gt;=2000" ; Times: 1
+	Query: "cardellina canadensis" ; Times: 1
+	Query: "house finch" ; Times: 1
+	Query: "specificepithet:flavigaster genus:Xiphorhynchus" ; Times: 1
+	Query: "county:&#34;Imperial&#34; year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "Northern Cardinal" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Haemorhous year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "distance(location,geopoint(37.677289235,-89.0633763645))&lt;13548" ; Times: 2
+	Query: "mongolian gerbil" ; Times: 3
+	Query: "oreortyx pictus" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter AND (United States) hastissue:1" ; Times: 1
+	Query: "specificepithet:preblei genus:Sorex stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "royal tern" ; Times: 1
+	Query: "specificepithet:gularis genus:Icterus" ; Times: 1
+	Query: "elephant vntype:specimen (Uganda)" ; Times: 1
+	Query: "kidney vntype:specimen" ; Times: 3
+	Query: "specificepithet:canadensis genus:Ovis institutioncode:CRCM" ; Times: 1
+	Query: "&#34;Cochlearius cochlearius&#34; preparations:skeleton" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Catherpes" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 2
+	Query: "vntype:specimen genus:Poecile hastissue:1" ; Times: 1
+	Query: "sylvilagus nuttallii" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Flavipes genus:Tringa class:Aves year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 2
+	Query: "specificepithet:morio genus:Psilorhinus" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus year &gt;= 1995 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "specificepithet:sanguinolentus genus:Ramphocelus" ; Times: 1
+	Query: "&#34;American robin&#34; vntype:specimen" ; Times: 1
+	Query: "White-eyed Vireo" ; Times: 2
+	Query: "north american porcupine" ; Times: 1
+	Query: "vntype:specimen (dove wing)" ; Times: 1
+	Query: "specificepithet:solitaria genus:tringa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 3
+	Query: "distance(location,geopoint(42.9787039604825,-89.428143815909))&lt;9675" ; Times: 1
+	Query: "specificepithet:abbas genus:Thraupis" ; Times: 1
+	Query: "specificepithet:candei genus:Manacus" ; Times: 1
+	Query: "specificepithet:rositae genus:Passerina" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Haemorhous year &gt;= 1900 year &lt;= 2000" ; Times: 1
+	Query: "CM 9306" ; Times: 2
+	Query: "specificepithet:montezuma genus:Psarocolius" ; Times: 1
+	Query: "&#34;American robin&#34; vntype:specimen specificepithet:migratorius genus:Turdus" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus year &gt;= 1995 month &gt;= 6 month &lt;= 7 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "song sparrow" ; Times: 2
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:hoyi genus:sorex institutioncode:CRCM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "molothrus ater hasmass:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:mexicanus genus:Haemorhous year &gt;= 1900 year &lt;= 1970" ; Times: 1
+	Query: "anas clypeata" ; Times: 1
+	Query: "Falco peregrinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Vireo griseus" ; Times: 1
+	Query: "specificepithet: thalassina genus:Tachycineta hasmass:1" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Oregon&#34; preparations:skin" ; Times: 1
+	Query: "specificepithet:fasciata genus:Patagioenas" ; Times: 1
+	Query: "archilochus alexandri" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Buteo lagopus" ; Times: 2
+	Query: "kidney" ; Times: 3
+	Query: "anas discors" ; Times: 1
+	Query: "African elephant" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter AND (United States OR USA) hastissue:1" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "specificepithet:californica genus:Callipepla mappable:1 year&gt;=2000" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciata genus:Patagioenas" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Haemorhous year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "LJW 383" ; Times: 1
+	Query: "Aythya collaris hastissue:1" ; Times: 2
+	Query: "semipalmated sandpiper" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "LJW 98" ; Times: 1
+	Query: "Cape May Warbler" ; Times: 1
+	Query: "Elephant elephant" ; Times: 1
+	Query: "Aythya collaris" ; Times: 3
+	Query: "sanderling" ; Times: 2
+	Query: "specificepithet:japonica genus:Coturnix mappable:1" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 1178 download events in this period)
+Total number of records downloaded: 1721
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 33
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 5
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 4
+	Date: 2018-05-14 ; Times: 7
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-31 ; Times: 4
+	Date: 2018-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "ara ararauna" ; Times: 2
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;American robin&#34; vntype:specimen specificepithet:migratorius genus:Turdus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "brunneinucha" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "molothrus ater hasmass:1" ; Times: 1
+	Query: "class:aves preparations:skin distance(location,geopoint(37.861844098370945,-122.04025268554688))&lt;80690" ; Times: 2
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "african Elephant" ; Times: 3
+	Query: "Falco peregrinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "elephant vntype:specimen (Uganda)" ; Times: 1
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Oregon&#34; preparations:skin" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "specificepithet:varia genus:strix hastissue:1" ; Times: 1
+	Query: "&#34;Cochlearius cochlearius&#34; preparations:skeleton" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "class:Aves preparations:skin distance(location,geopoint(37.85750715625203,-121.9866943359375))&lt;28430.074091808372" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;Washington&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "free-tailed bat vntype:specimen" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "specificepithet: thalassina genus:Tachycineta hasmass:1" ; Times: 1
+	Query: "specificepithet:polyglottos genus:Mimus hasmass:1" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Washington&#34; preparations:skin" ; Times: 1
+	Query: "sylvilagus nuttalli" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Catherpes hasmass:1" ; Times: 1
+	Query: "class:Aves preparations:skin distance(location,geopoint(37.85750715625203,-121.9866943359375))&lt;45119" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela stateprovince:&#34;British Columbia&#34; lengthtype:total length hassex:1 haslength:1" ; Times: 1
+	Query: "Cape May Warbler" ; Times: 1
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "mongolian gerbil" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
