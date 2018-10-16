@@ -1,0 +1,711 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 805
+Number of records retrieved in searches: 6788
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 47
+	Country: Brazil ; Times: 5
+	Country: Portugal ; Times: 70
+	Country: Mexico ; Times: 19
+	Country: Denmark ; Times: 286
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 354
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 12
+	Country: Unknown ; Times: 3
+	Country: Switzerland ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 8
+	Date: 2018-02-08 ; Times: 32
+	Date: 2018-02-03 ; Times: 288
+	Date: 2018-02-02 ; Times: 27
+	Date: 2018-02-01 ; Times: 29
+	Date: 2018-02-07 ; Times: 13
+	Date: 2018-02-06 ; Times: 29
+	Date: 2018-02-05 ; Times: 31
+	Date: 2018-02-04 ; Times: 2
+	Date: 2018-02-21 ; Times: 16
+	Date: 2018-02-20 ; Times: 66
+	Date: 2018-02-23 ; Times: 6
+	Date: 2018-02-22 ; Times: 28
+	Date: 2018-02-25 ; Times: 14
+	Date: 2018-02-24 ; Times: 4
+	Date: 2018-02-27 ; Times: 55
+	Date: 2018-02-26 ; Times: 38
+	Date: 2018-02-28 ; Times: 13
+	Date: 2018-02-14 ; Times: 10
+	Date: 2018-02-15 ; Times: 8
+	Date: 2018-02-16 ; Times: 7
+	Date: 2018-02-17 ; Times: 8
+	Date: 2018-02-10 ; Times: 4
+	Date: 2018-02-11 ; Times: 9
+	Date: 2018-02-12 ; Times: 14
+	Date: 2018-02-13 ; Times: 20
+	Date: 2018-02-18 ; Times: 6
+	Date: 2018-02-19 ; Times: 20
+
+List of queries that retrieved data from the resource: 
+	Query: "Aix sponsa mappable:1" ; Times: 3
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Sterna paradisaea" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-114&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-102&#34;" ; Times: 2
+	Query: "genus:megascops hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-82&#34;" ; Times: 2
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "giant flying squirrel" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-98&#34;" ; Times: 2
+	Query: "Laridae Washington" ; Times: 1
+	Query: "Tragelaphus scriptus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "institutioncode:CRCM" ; Times: 11
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-52&#34;" ; Times: 2
+	Query: "Bucephala albeola basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-121&#34;" ; Times: 2
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 26
+	Query: "Tympanuchus cupido" ; Times: 2
+	Query: "red knot" ; Times: 2
+	Query: "harrier" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-160&#34;" ; Times: 2
+	Query: "falco columbarius" ; Times: 2
+	Query: "Hooded vulture" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-55&#34;" ; Times: 2
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-79&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-180&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-41&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-173&#34;" ; Times: 2
+	Query: "class:aves county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mergus merganser basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-124&#34;" ; Times: 2
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Mergus merganser basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crocuta crocuta " ; Times: 1
+	Query: "vntype:specimen specificepithet:brevicauda genus:Blarina stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "B-1357" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "specificepithet:ruficauda genus:peucaea hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-38&#34;" ; Times: 2
+	Query: "scientificname:&#34;falcipennis canadensis&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-89&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-67&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-95&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Meleagris basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "family:Parulidae locality:Alabama" ; Times: 1
+	Query: "Damaliscus korrigum" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-106&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-134&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-118&#34;" ; Times: 2
+	Query: "Coragyps atratus mappable:1" ; Times: 4
+	Query: "Bucephala islandica basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile hassex:1 hasmass:1" ; Times: 1
+	Query: "laridae and washington" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 3
+	Query: "genus:Larus locality:Alabama" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 20
+	Query: "window class:Aves" ; Times: 2
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-78&#34;" ; Times: 2
+	Query: "distance(location,geopoint(45.0857843155001,-92.5427866625))&lt;18502" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-111&#34;" ; Times: 2
+	Query: "catalognumber: 511 &#34;myodes gapperi&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-87&#34;" ; Times: 2
+	Query: "shrew stateprovince:&#34;Washington&#34; country:&#34;united states&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "vireo bellii" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "dendragapus obscurus" ; Times: 3
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-164&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-45&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-51&#34;" ; Times: 2
+	Query: "loggerhead shrike" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 15
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-144&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-58&#34;" ; Times: 2
+	Query: "locality:Alabama" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-183&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-42&#34;" ; Times: 2
+	Query: "shrew stateprovince:&#34;Washington&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta hasmass:1" ; Times: 3
+	Query: "specificepithet:arcticus genus:picoides hasmass:1" ; Times: 1
+	Query: "Eudocimus albus mappable:1" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-123&#34;" ; Times: 2
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-66&#34;" ; Times: 2
+	Query: "specificepithet:scriptus genus:Tragelaphus preparations:Skull" ; Times: 2
+	Query: "vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Anser fabalis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-174&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-73&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-158&#34;" ; Times: 2
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Branta hutchinsii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-63&#34;" ; Times: 2
+	Query: "specificepithet:thalassina genus:tachycineta hasmass:1" ; Times: 1
+	Query: "badger" ; Times: 1
+	Query: "Alectoris chukar mappable:1" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-130&#34;" ; Times: 2
+	Query: "corvus corax" ; Times: 2
+	Query: "window" ; Times: 3
+	Query: "catalognumber:1160 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-90&#34;" ; Times: 2
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Anser serrirostris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves recordedby:meanley year &gt;= 1930 year &lt;= 1975" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-64&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-115&#34;" ; Times: 2
+	Query: "Anas rubripes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-101&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-83&#34;" ; Times: 2
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Coturnix japonica mappable:1" ; Times: 4
+	Query: "specificepithet:himantopus genus:Calidris hasmass:1" ; Times: 1
+	Query: "dolichonyx oryzivorus" ; Times: 2
+	Query: "catalognumber:120" ; Times: 2
+	Query: "genus:Surnia class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "class:aves recordedby:weber" ; Times: 1
+	Query: "caracara cheriway" ; Times: 2
+	Query: "vireo huttoni" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona hasmass:1" ; Times: 1
+	Query: "Boselaphus tragocamelus" ; Times: 6
+	Query: "family:Sciuridae institutioncode:CRCM" ; Times: 6
+	Query: "specificepithet:mexicanus genus:quiscalus hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-140&#34;" ; Times: 2
+	Query: "Amazona ochrocephala mappable:1" ; Times: 3
+	Query: "Parabuteo unicinctus mappable:1" ; Times: 3
+	Query: "specificepithet:concolor genus:puma mappable:1" ; Times: 3
+	Query: "Cervidae" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-141&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-163&#34;" ; Times: 2
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-54&#34;" ; Times: 2
+	Query: "specificepithet:cupido genus:Tympanuchus" ; Times: 1
+	Query: "Haliaeetus leucocephalus mappable:1" ; Times: 2
+	Query: "class:Aves preparations:Postcranial institutioncode:CRCM" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-46&#34;" ; Times: 2
+	Query: "specificepithet:funereus genus:Aegolius country:&#34;United States&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-127&#34;" ; Times: 2
+	Query: "catalognumber:447" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-72&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-170&#34;" ; Times: 2
+	Query: "Aythya collaris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-186&#34;" ; Times: 2
+	Query: "passer" ; Times: 2
+	Query: "hummingbird" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-60&#34;" ; Times: 2
+	Query: "Serinus canaria mappable:1" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-94&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-76&#34;" ; Times: 2
+	Query: "northern pike" ; Times: 1
+	Query: "Lama glama" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-135&#34;" ; Times: 2
+	Query: "odocoileus virginianus" ; Times: 5
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-129&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-119&#34;" ; Times: 2
+	Query: "meleagris gallopavo" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-105&#34;" ; Times: 2
+	Query: "Oxyura jamaicensis mappable:1" ; Times: 2
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aythya collaris basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Aythya marila basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "Aythya valisineria mappable:1" ; Times: 4
+	Query: "song sparrow" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-112&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-84&#34;" ; Times: 2
+	Query: "class:aves recordedby:*meanley*" ; Times: 1
+	Query: "family:Icteridae locality:Alabama" ; Times: 2
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 6
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "specificepithet:longimembris county:&#34;San Diego&#34;" ; Times: 2
+	Query: "specificepithet:versicolurus genus:Brotogeris hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-167&#34;" ; Times: 2
+	Query: "&#34;mephitis mephitis&#34; vntype:specimen country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "bluebird" ; Times: 1
+	Query: "&#34;puma concolor&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-50&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinereoargenteus genus:Urocyon (zoo OR captive)" ; Times: 1
+	Query: "specificepithet:lincolnii" ; Times: 1
+	Query: "pipilo maculatus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-143&#34;" ; Times: 2
+	Query: "Myodes gapperi" ; Times: 1
+	Query: "Bassariscus and California" ; Times: 1
+	Query: "Hyaenidae mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 4
+	Query: "Poicephalus stomach" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-182&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-43&#34;" ; Times: 2
+	Query: "Aratinga nenday mappable:1" ; Times: 3
+	Query: "specificepithet:AEGAGRUS genus:CAPRA" ; Times: 9
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-138&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-175&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-122&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-169&#34;" ; Times: 2
+	Query: "Bald eagle" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-159&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-48&#34;" ; Times: 2
+	Query: "specificepithet:stephensi genus:Neotoma stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-109&#34;" ; Times: 2
+	Query: "Ringtail and California" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-131&#34;" ; Times: 2
+	Query: "tyto alba" ; Times: 1
+	Query: "Anas cyanoptera mappable:1" ; Times: 2
+	Query: "catharus fuscescens month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-93&#34;" ; Times: 2
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-65&#34;" ; Times: 2
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-100&#34;" ; Times: 2
+	Query: "Bar-tailed Godwit" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-136&#34;" ; Times: 2
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "catalognumber:134 &#34;sorex cinereus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-116&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-80&#34;" ; Times: 2
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes (zoo OR captive)" ; Times: 1
+	Query: "catalognumber:10-175 institutioncode:CRCM" ; Times: 1
+	Query: "Hyaenidae" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sturnus massing &gt;= 10 massing &lt;= 60" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "progne" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;Montana&#34;" ; Times: 3
+	Query: "Phasianus colchicus mappable:1" ; Times: 1
+	Query: "Mottled Petrel" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-57&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-178&#34;" ; Times: 2
+	Query: "Least Sandpiper" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-162&#34;" ; Times: 2
+	Query: "genus:Dasypus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-70&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-47&#34;" ; Times: 2
+	Query: "Oxyura jamaicensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:accipitridae preparations:wing" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (macaca mulatta)" ; Times: 1
+	Query: "Nashville Warbler" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 2
+	Query: "genus:Zapus catalognumber:401" ; Times: 1
+	Query: "Lamprotornis superbus mappable:1" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-171&#34;" ; Times: 2
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 2
+	Query: "Panthera leo mappable:1" ; Times: 1
+	Query: "&#34;sylvilagus floridanus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-185&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-37&#34;" ; Times: 2
+	Query: "Eudocimus albus" ; Times: 3
+	Query: "Aythya americana basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-68&#34;" ; Times: 2
+	Query: "Worcester" ; Times: 1
+	Query: "Gracula religiosa mappable:1" ; Times: 4
+	Query: "specificepithet:riparia genus:riparia hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-176&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-61&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-97&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-75&#34;" ; Times: 2
+	Query: "Melanitta fusca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-132&#34;" ; Times: 2
+	Query: "specificepithet:cinerea county:&#34;Washington&#34;" ; Times: 2
+	Query: "Athene" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-128&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:melodia genus:Melospiza haslength:1" ; Times: 2
+	Query: "eastern bluebird" ; Times: 1
+	Query: "Pangolin" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-104&#34;" ; Times: 2
+	Query: "wingspan genus:Troglodytes" ; Times: 1
+	Query: "recordedby:meanley year &gt;= 1930 year &lt;= 1975" ; Times: 1
+	Query: "Bassariscus astutus and California" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "prairie chicken" ; Times: 1
+	Query: "Panthera pardus" ; Times: 9
+	Query: "short eared owl" ; Times: 2
+	Query: "Chrysolophus pictus mappable:1" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-113&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-103&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-85&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-99&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:tragocamelus genus:Boselaphus preparations:Skull" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer continent:North America" ; Times: 1
+	Query: "cattle egret" ; Times: 2
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-166&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;monroe&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-53&#34;" ; Times: 2
+	Query: "duck river" ; Times: 1
+	Query: "Melopsittacus undulatus mappable:1" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-142&#34;" ; Times: 2
+	Query: "scientificname:&#34;crocuta crocuta&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-161&#34;" ; Times: 2
+	Query: "Podilymbus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-40&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-77&#34;" ; Times: 2
+	Query: "distance(location,geopoint(44.2351364775,-91.8368762249999))&lt;29242" ; Times: 4
+	Query: "ruby throated hummingbird" ; Times: 8
+	Query: "nucifraga" ; Times: 1
+	Query: "Aythya affinis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-177&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-181&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-139&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-172&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-125&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-168&#34;" ; Times: 2
+	Query: "riparia" ; Times: 2
+	Query: "1322" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-49&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-96&#34;" ; Times: 2
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-71&#34;" ; Times: 2
+	Query: "woodcock" ; Times: 1
+	Query: "pelt" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-39&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-108&#34;" ; Times: 2
+	Query: "specificepithet:gapperi genus:myodes hasmass:1" ; Times: 1
+	Query: "stateprovince:&#34;illinois&#34; recordedby:weber" ; Times: 4
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-88&#34;" ; Times: 2
+	Query: "tachycineta bicolor" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-92&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-107&#34;" ; Times: 2
+	Query: "specificepithet:funereus genus:Aegolius stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-137&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-133&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-117&#34;" ; Times: 2
+	Query: "specificepithet:concolor family:Felidae" ; Times: 2
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "family:Sciuridae preparations:skeleton institutioncode:CRCM" ; Times: 6
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-81&#34;" ; Times: 2
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 2
+	Query: "distance(location,geopoint(37.677289235,-89.0633763645))&lt;13548" ; Times: 4
+	Query: "Ruddy Turnstone" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-110&#34;" ; Times: 2
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 2
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-126&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-86&#34;" ; Times: 2
+	Query: "class:Aves locality:Alabama" ; Times: 11
+	Query: "Numida meleagris mappable:1" ; Times: 4
+	Query: "Cattle egret" ; Times: 2
+	Query: "paridae liver" ; Times: 1
+	Query: "bobolink" ; Times: 3
+	Query: "tufted titmouse" ; Times: 2
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-179&#34;" ; Times: 2
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "specificepithet:pusilla genus:spizella stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis" ; Times: 1
+	Query: "mice" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-165&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-145&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-44&#34;" ; Times: 2
+	Query: "1185" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-56&#34;" ; Times: 2
+	Query: "genus:melospiza haslength:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-59&#34;" ; Times: 2
+	Query: "Loxodonta africana " ; Times: 1
+	Query: "Agapornis roseicollis mappable:1" ; Times: 3
+	Query: "specificepithet:townsendi genus:myadestes" ; Times: 1
+	Query: "genus:junco hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-184&#34;" ; Times: 2
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-36&#34;" ; Times: 2
+	Query: "Columba livia" ; Times: 1
+	Query: "&#34;vulpes vulpes&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-120&#34;" ; Times: 2
+	Query: "bubulcus ibis" ; Times: 13
+	Query: "&#34;didelphis virginiana&#34; vntype:specimen stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-69&#34;" ; Times: 2
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "Lophodytes cucullatus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius county:&#34;Idaho&#34; stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "gannet" ; Times: 1
+	Query: "genus:Protonotaria" ; Times: 1
+	Query: "specificepithet:tridecemlineatus stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "&#34;marmota monax&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-74&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:16-157&#34;" ; Times: 2
+	Query: "Hyena" ; Times: 1
+	Query: "specificepithet:blossevillii genus:lasiurus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-62&#34;" ; Times: 2
+	Query: "Panthera pardus mappable:1" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "Zonotrichia leucophrys" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:CRCM:Mammals:74-91&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 232 (out of 1892 download events in this period)
+Total number of records downloaded: 117439
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 29
+	Country: United States ; Times: 182
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 5
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-02 ; Times: 16
+	Date: 2018-02-01 ; Times: 80
+	Date: 2018-02-07 ; Times: 2
+	Date: 2018-02-06 ; Times: 9
+	Date: 2018-02-05 ; Times: 24
+	Date: 2018-02-04 ; Times: 2
+	Date: 2018-02-21 ; Times: 6
+	Date: 2018-02-20 ; Times: 14
+	Date: 2018-02-23 ; Times: 8
+	Date: 2018-02-22 ; Times: 4
+	Date: 2018-02-24 ; Times: 2
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-26 ; Times: 6
+	Date: 2018-02-28 ; Times: 4
+	Date: 2018-02-14 ; Times: 4
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 5
+	Date: 2018-02-11 ; Times: 6
+	Date: 2018-02-12 ; Times: 6
+	Date: 2018-02-13 ; Times: 18
+	Date: 2018-02-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Poicephalus stomach" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus county:&#34;monroe&#34; stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:megascops hastissue:1" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Momotus momota" ; Times: 3
+	Query: "Meriones" ; Times: 1
+	Query: "vntype:specimen specificepithet:albus genus:Eudocimus stateprovince:&#34;Florida&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:troglodytes genus:Estrilda" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:georgiana genus:melospiza" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Peromyscus crinitus" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "Batis molitor" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile hassex:1 hasmass:1" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Pennsylvania&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Microtus pinetorum" ; Times: 1
+	Query: "class:Mammalia institutioncode:CRCM" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "vntype:specimen specificepithet:merriami genus:Dipodomys country:&#34;Mexico&#34;" ; Times: 2
+	Query: "red knot" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:himantopus genus:Calidris hasmass:1" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "class:aves recordedby:weber" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "class:Aves country:&#34;Congo&#34;" ; Times: 2
+	Query: "Artibeus jamaicensis" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:ochrocephala genus:Amazona hasmass:1" ; Times: 1
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 2
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 4
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "specificepithet:leucura genus:Lagopus continent:North America" ; Times: 2
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;New York&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:thalassina genus:tachycineta hasmass:1" ; Times: 1
+	Query: "Dipodomys panamintinus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "specificepithet:gapperi genus:myodes hasmass:1" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "molothrus" ; Times: 1
+	Query: "Sylvilagus audubonii" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:inca genus:Columbina continent:North America" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:alpestris genus:Eremophila" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "specificepithet:vulgaris genus:Sturnus massing &gt;= 10 massing &lt;= 60" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:ruficauda genus:peucaea hasmass:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides hasmass:1" ; Times: 1
+	Query: "specificepithet:spodocephala genus:Emberiza" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Prionops" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "specificepithet:pinetorum genus:microtus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Prionops retzii" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:mexicanus genus:quiscalus hasmass:1" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "Saccopteryx bilineata" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "Prionops plumatus" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "pygoscelis papua" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "&#34;sylvilagus floridanus&#34; vntype:specimen stateprovince:&#34;Wisconsin&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "macaca mulatta" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Peromyscus aztecus" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:montifringilla genus:Fringilla" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "class:Mammalia" ; Times: 1
+	Query: "specificepithet:cupido genus:Tympanuchus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Meleagris sex:Male basisofrecord:PreservedSpecimen hassex:1" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "Chaetodipus penicillatus" ; Times: 1
+	Query: "Napaeozapus insignis" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 8
+	Query: "Phyllostomus discolor" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Indiana&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "Sylvicapra grimmia" ; Times: 1
+	Query: "specificepithet:melanocephalus genus:malurus hasmass:1" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Pteronotus parnellii" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "genus:junco hasmass:1" ; Times: 1
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Calidris hasmass:1" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "&#34;vulpes vulpes&#34; vntype:specimen stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "&#34;didelphis virginiana&#34; vntype:specimen stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Onychomys torridus" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "institutioncode:CRCM" ; Times: 1
+	Query: "Ammodramus henslowii" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "family:Sciuridae institutioncode:CRCM" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "&#34;marmota monax&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Liomys irroratus" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta hasmass:1" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis hasmass:1" ; Times: 1
+	Query: "specificepithet:arcticus genus:picoides hasmass:1" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "vntype:specimen (ateles geoffroyi)" ; Times: 1
+	Query: "specificepithet:occidentalis genus:strix" ; Times: 1
+	Query: "specificepithet:trimucronatus genus:lemmus hasmass:1" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix" ; Times: 1
+	Query: "order:Rodentia class:Mammalia stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:columbarius genus:Falco stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Uroderma bilobatum" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer continent:North America" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Strix" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "choloepus" ; Times: 1
+
+
+End of report.
