@@ -1,0 +1,314 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 325
+Number of records retrieved in searches: 2600
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 177
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 91
+	Country: Mexico ; Times: 9
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Guatemala ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Sri Lanka ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Ukraine ; Times: 3
+	Country: Lithuania ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-01 ; Times: 5
+	Date: 2018-07-02 ; Times: 12
+	Date: 2018-07-03 ; Times: 11
+	Date: 2018-07-28 ; Times: 9
+	Date: 2018-07-29 ; Times: 9
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-04 ; Times: 2
+	Date: 2018-07-05 ; Times: 2
+	Date: 2018-07-06 ; Times: 9
+	Date: 2018-07-21 ; Times: 4
+	Date: 2018-07-26 ; Times: 16
+	Date: 2018-07-27 ; Times: 7
+	Date: 2018-07-24 ; Times: 91
+	Date: 2018-07-25 ; Times: 11
+	Date: 2018-07-13 ; Times: 6
+	Date: 2018-07-12 ; Times: 11
+	Date: 2018-07-11 ; Times: 7
+	Date: 2018-07-10 ; Times: 7
+	Date: 2018-07-17 ; Times: 12
+	Date: 2018-07-16 ; Times: 17
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-14 ; Times: 2
+	Date: 2018-07-31 ; Times: 6
+	Date: 2018-07-30 ; Times: 14
+	Date: 2018-07-19 ; Times: 9
+	Date: 2018-07-18 ; Times: 7
+	Date: 2018-07-22 ; Times: 5
+	Date: 2018-07-23 ; Times: 9
+	Date: 2018-07-20 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "albion" ; Times: 1
+	Query: "7815" ; Times: 2
+	Query: "Chaetura pelagica mappable:1" ; Times: 1
+	Query: "EAR 5078" ; Times: 1
+	Query: "Spinus pinus" ; Times: 1
+	Query: "Myiarchus crinitus mappable:1" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "Olson" ; Times: 1
+	Query: "Cardellina canadensis mappable:1" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "aix sponsa" ; Times: 2
+	Query: "Stercorarius longicaudus mappable:1" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 2
+	Query: "Conover" ; Times: 1
+	Query: "740 aves" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "chickadee" ; Times: 2
+	Query: "Egretta thula mappable:1" ; Times: 1
+	Query: "Riparia riparia mappable:1" ; Times: 1
+	Query: "Bubulcus ibis mappable:1" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 9
+	Query: "Barred owl" ; Times: 2
+	Query: "puma concolor" ; Times: 3
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "Limosa fedoa mappable:1" ; Times: 1
+	Query: "Numenius phaeopus mappable:1" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 4
+	Query: "vntype:specimen specificepithet:leucocephalus genus:Haliaeetus" ; Times: 1
+	Query: "Marshall Co" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "Falco sparverius vntype:specimen institutioncode:CRCM" ; Times: 1
+	Query: "Aratinga" ; Times: 3
+	Query: "mystromys albicaudatus" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 2
+	Query: "gavia immer" ; Times: 3
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 65
+	Query: "Microtus richardsoni specificepithet:richardsoni genus:Microtus stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "Phaethon aethereus" ; Times: 2
+	Query: "Calidris canutus mappable:1" ; Times: 1
+	Query: "starling" ; Times: 1
+	Query: "2796" ; Times: 1
+	Query: "CRCM" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "canicularis" ; Times: 1
+	Query: "Haematopus palliatus mappable:1" ; Times: 1
+	Query: "genus:Bartramia hassex:1 hasmass:1" ; Times: 1
+	Query: "Piranga rubra mappable:1" ; Times: 1
+	Query: "Tringa semipalmata mappable:1" ; Times: 1
+	Query: "Nyctanassa violacea mappable:1" ; Times: 1
+	Query: "Wings of Birds" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 2
+	Query: "Tringa melanoleuca mappable:1" ; Times: 1
+	Query: "EAR 3286" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 2
+	Query: "Phalaropus fulicarius mappable:1" ; Times: 1
+	Query: "puma" ; Times: 1
+	Query: "Tinamus major" ; Times: 2
+	Query: "Bartramia longicauda mappable:1" ; Times: 1
+	Query: "Columba livia mappable:1" ; Times: 3
+	Query: "House Sparrow" ; Times: 1
+	Query: "Amazona ochrocephala mappable:1" ; Times: 1
+	Query: "Parabuteo unicinctus mappable:1" ; Times: 1
+	Query: "murrelet" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Ixobrychus exilis mappable:1" ; Times: 1
+	Query: "Lagopus" ; Times: 1
+	Query: "Pileated woodpecker" ; Times: 2
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "3318" ; Times: 1
+	Query: "willow flycatcher" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "Charles Lamb" ; Times: 1
+	Query: "Barn swallow" ; Times: 1
+	Query: "Quiscalus mexicanus mappable:1" ; Times: 1
+	Query: "Buteo swainsoni mappable:1" ; Times: 1
+	Query: "Calidris melanotos mappable:1" ; Times: 1
+	Query: "5083" ; Times: 1
+	Query: "Arenaria interpres mappable:1" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 2
+	Query: "Boar skull" ; Times: 1
+	Query: "chicken" ; Times: 1
+	Query: "Peucaea aestivalis" ; Times: 3
+	Query: "genus:Zapus county:&#34;Whatcom&#34;" ; Times: 3
+	Query: "Calidris bairdii mappable:1" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "Nomonyx dominicus" ; Times: 2
+	Query: "Dendrocygna viduata" ; Times: 2
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 3
+	Query: "Ardea alba mappable:1" ; Times: 1
+	Query: "genus:Poicephalus hasmass:1" ; Times: 1
+	Query: "Egretta tricolor mappable:1" ; Times: 1
+	Query: "Coccyzus erythropthalmus mappable:1" ; Times: 1
+	Query: "Stercorarius parasiticus mappable:1" ; Times: 1
+	Query: "Limosa haemastica mappable:1" ; Times: 1
+	Query: "Cistothorus platensis mappable:1" ; Times: 1
+	Query: "Tringa flavipes mappable:1" ; Times: 1
+	Query: "Mycteria americana mappable:1" ; Times: 1
+	Query: "Coragyps atratus mappable:1" ; Times: 1
+	Query: "american kestrel" ; Times: 3
+	Query: "(Mallory)" ; Times: 1
+	Query: "2796 aves" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 2
+	Query: "3704" ; Times: 4
+	Query: "Chordeiles minor" ; Times: 2
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "Ictinia mississippiensis mappable:1" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;Klickitat&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "pecari tajacu" ; Times: 4
+	Query: "Eudocimus albus mappable:1" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Plegadis chihi mappable:1" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "barred owl" ; Times: 2
+	Query: "odocoileus virginianus" ; Times: 5
+	Query: "Setophaga cerulea mappable:1" ; Times: 1
+	Query: "Dendrocygna bicolor mappable:1" ; Times: 1
+	Query: "Anhinga anhinga mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes institutioncode:CRCM" ; Times: 1
+	Query: "Parkesia noveboracensis mappable:1" ; Times: 1
+	Query: "963" ; Times: 1
+	Query: "Chaetura pelagica" ; Times: 2
+	Query: "mountain goat" ; Times: 2
+	Query: "genus:Bartramia hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "cerulean" ; Times: 1
+	Query: "burrowing owl" ; Times: 1
+	Query: "Caracara cheriway mappable:1" ; Times: 1
+	Query: "Contopus cooperi mappable:1" ; Times: 1
+	Query: "Egretta caerulea mappable:1" ; Times: 1
+	Query: "genus:Zapus county:&#34;Okanogan&#34;" ; Times: 1
+	Query: "Buteo platypterus mappable:1" ; Times: 1
+	Query: "specificepithet:breweri genus:Parascalops country:&#34;United States&#34;" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Falco rusticolus" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "Calidris himantopus mappable:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 17
+	Query: "eastern bluebird" ; Times: 1
+	Query: "family:felidae preparations:skeleton" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "Progne subis mappable:1" ; Times: 1
+	Query: "Canis latrans institutioncode:CRCM" ; Times: 1
+	Query: "Catharus minimus mappable:1" ; Times: 1
+	Query: "cardinal" ; Times: 3
+	Query: "elephant" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "Phalaropus lobatus mappable:1" ; Times: 1
+	Query: "3704 aves" ; Times: 2
+	Query: "39.1 aves" ; Times: 1
+	Query: "Setophaga striata mappable:1" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte hastissue:1" ; Times: 1
+	Query: "specificepithet:cherrug genus:Falco" ; Times: 2
+	Query: "Limnodromus griseus mappable:1" ; Times: 1
+	Query: "JFS 26" ; Times: 1
+	Query: "gyrfalcon" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (captive OR zoo)" ; Times: 2
+	Query: "Accipiter striatus mappable:1" ; Times: 5
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Charles R Lamb" ; Times: 2
+	Query: "genus:Bartramia hassex:1 haslength:1" ; Times: 1
+	Query: "Catharus fuscescens mappable:1" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "genus:Dryocopus" ; Times: 3
+	Query: "Tringa solitaria mappable:1" ; Times: 1
+	Query: "Barn Swallow" ; Times: 1
+	Query: "Porphyrio martinicus mappable:1" ; Times: 1
+	Query: "Rallus limicola mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 977 download events in this period)
+Total number of records downloaded: 887
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 27
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 5
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-30 ; Times: 12
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-31 ; Times: 3
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-17 ; Times: 5
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "genus:Zapus county:&#34;Okanogan&#34;" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis order:Passeriformes" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "specificepithet:palustris genus:Sylvilagus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "Canis latrans institutioncode:CRCM" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Peucaea aestivalis" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Rhipidura" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma haslength:1" ; Times: 1
+	Query: "Geothlypis tolmiei" ; Times: 1
+	Query: "Haemorhous purpureus" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "Falco sparverius vntype:specimen institutioncode:CRCM" ; Times: 1
+	Query: "genus:tamiasciurus hastissue:1" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes institutioncode:CRCM" ; Times: 1
+	Query: "genus:Bartramia hassex:1 haslength:1" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "genus:Bartramia hassex:1 hasmass:1" ; Times: 1
+	Query: "Manacus manacus" ; Times: 1
+	Query: "genus:Bartramia hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Catharus ustulatus" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "genus:Zapus county:&#34;Whatcom&#34;" ; Times: 3
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+
+
+End of report.
