@@ -1,0 +1,333 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 280
+Number of records retrieved in searches: 2402
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 21
+	Country: United States ; Times: 205
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 7
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 22
+	Date: 2018-06-06 ; Times: 25
+	Date: 2018-06-05 ; Times: 25
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 6
+	Date: 2018-06-01 ; Times: 12
+	Date: 2018-06-25 ; Times: 15
+	Date: 2018-06-24 ; Times: 4
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-26 ; Times: 4
+	Date: 2018-06-21 ; Times: 13
+	Date: 2018-06-20 ; Times: 7
+	Date: 2018-06-23 ; Times: 9
+	Date: 2018-06-08 ; Times: 28
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-22 ; Times: 7
+	Date: 2018-06-10 ; Times: 4
+	Date: 2018-06-11 ; Times: 12
+	Date: 2018-06-12 ; Times: 5
+	Date: 2018-06-13 ; Times: 9
+	Date: 2018-06-14 ; Times: 5
+	Date: 2018-06-15 ; Times: 12
+	Date: 2018-06-16 ; Times: 12
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 5
+	Date: 2018-06-19 ; Times: 13
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-29 ; Times: 3
+	Date: 2018-06-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Solenodontidae" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Washington&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "Screech owl hastissue:1" ; Times: 2
+	Query: "mallard" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 4
+	Query: "wood duck" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;benton&#34; stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "&#34;san felipe&#34; specificepithet:merriami genus:dipodomys county:&#34;san diego&#34;" ; Times: 1
+	Query: "scarlet tanager" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "bird eggs nebraska" ; Times: 2
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1965" ; Times: 1
+	Query: "ring necked pheasant" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1963" ; Times: 2
+	Query: "African Elephant" ; Times: 5
+	Query: "ac-294" ; Times: 1
+	Query: "Bald eagle" ; Times: 2
+	Query: "northern hawk owl" ; Times: 3
+	Query: "clangula hyemalis egg iceland" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 2
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "blue grouse" ; Times: 10
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "Sharp-tailed grouse wing" ; Times: 1
+	Query: "specificepithet:talpoides genus:Thomomys county:&#34;Klickitat&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "red partridge" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "CHIROPTERA locality:OAXACA institutioncode:CRCM" ; Times: 1
+	Query: "white-tailed deer" ; Times: 1
+	Query: "genus:Zalophus stateprovince:&#34;oregon&#34;" ; Times: 5
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 34
+	Query: "liver paridae" ; Times: 1
+	Query: "specificepithet:townsendi genus:Setophaga" ; Times: 1
+	Query: "skeleton genus:Turdus" ; Times: 1
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34; stateprovince:&#34;CAlifornia&#34; hasmass:1" ; Times: 1
+	Query: "genus:Turdus (skeleton)" ; Times: 1
+	Query: "snowy owl" ; Times: 2
+	Query: "locality:OAXACA institutioncode:CRCM" ; Times: 1
+	Query: "kori bustard" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina" ; Times: 1
+	Query: "great horned owl" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "nilgai" ; Times: 2
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "Gaviidae" ; Times: 2
+	Query: "vntype:specimen preparations:skin (Porzana palmeri)" ; Times: 2
+	Query: "grasshopper sparrow" ; Times: 3
+	Query: "thalasseus maximus" ; Times: 3
+	Query: "genus:Plegadis family:Threskiornithidae class:Aves" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "cerulean" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "lagopus leucura" ; Times: 1
+	Query: "Struthio camelus" ; Times: 2
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34; hasmass:1 haslength:1" ; Times: 1
+	Query: "appendages" ; Times: 1
+	Query: "western meadowlark" ; Times: 3
+	Query: "genus:puma" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex year &gt;= 1990" ; Times: 1
+	Query: "peregrine falcon" ; Times: 1
+	Query: "puffin" ; Times: 2
+	Query: "recordedby:Herr" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "Northern Goshawk hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Falcipennis hastissue:1" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "cupido" ; Times: 1
+	Query: "marmot" ; Times: 4
+	Query: "genus:Tamiasciurus county:&#34;Columbia&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Saccopteryx stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "country:&#34;honduras&#34; year &gt;= 1965 year &lt;= 1965" ; Times: 2
+	Query: "haliaeetus leucocephalus" ; Times: 1
+	Query: "golden eagle" ; Times: 3
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "San Diego Zoo" ; Times: 2
+	Query: "pangolin" ; Times: 1
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "liver passeriformes" ; Times: 1
+	Query: "testes genus:loxia sex:male hassex:1 hasmass:1" ; Times: 4
+	Query: "blue jay" ; Times: 3
+	Query: "American Beaver" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 3
+	Query: "cardellina liver" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "bald eagle" ; Times: 12
+	Query: "Spilogale pygmaea" ; Times: 2
+	Query: "dicrurus macrocercus" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;Klickitat&#34; stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "White-eyed Vireo" ; Times: 3
+	Query: "catalognumber:76-563 institutioncode:CRCM" ; Times: 1
+	Query: "specificepithet:leucoptera genus:loxia sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "Marmot" ; Times: 3
+	Query: "mormoops country:&#34;mexico&#34; institutioncode:CRCM" ; Times: 1
+	Query: "sage grouse hastissue:1" ; Times: 1
+	Query: "Dendrohyrax arboreus" ; Times: 4
+	Query: "chipmunk" ; Times: 1
+	Query: "genus:Eumetopias stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "western squirrel" ; Times: 1
+	Query: "black tail deer" ; Times: 1
+	Query: "Northern Goshawk" ; Times: 2
+	Query: "Puma concolor" ; Times: 7
+	Query: "Barn Swallow vntype:specimen" ; Times: 2
+	Query: "African elephant" ; Times: 1
+	Query: "sage grouse" ; Times: 1
+	Query: "South toe" ; Times: 3
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "Pangolin" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "Canada Goose" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "white-eyed vireo" ; Times: 4
+	Query: "black capped chickadee" ; Times: 1
+	Query: "elephant" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 5
+	Query: "specificepithet:asiatica genus:Zenaida" ; Times: 3
+	Query: "african Elephant" ; Times: 1
+	Query: "catalognumber:40-141 institutioncode:CRCM" ; Times: 2
+	Query: "testes genus:loxia hasmass:1" ; Times: 3
+	Query: "specificepithet:podiceps genus:Podilymbus year &gt;= 1960 year &lt;= 1962" ; Times: 2
+	Query: "Poecile atricapillus" ; Times: 3
+	Query: "WC Russell" ; Times: 1
+	Query: "order:Columbiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "specificepithet:leucoptera genus:loxia hassex:1 hasmass:1" ; Times: 1
+	Query: "spotted hyena" ; Times: 1
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "hairy woodpecker" ; Times: 1
+	Query: "western kingbird" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus preparations:skeleton" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1922 year &lt;= 1922 month &gt;= 11 month &lt;= 11" ; Times: 1
+	Query: "specificepithet:discors genus:Anas year &gt;= 1956 year &lt;= 1957" ; Times: 1
+	Query: "northern spotted owl" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 128 (out of 1169 download events in this period)
+Total number of records downloaded: 6404
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 17
+	Country: United States ; Times: 101
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 27
+	Date: 2018-06-06 ; Times: 11
+	Date: 2018-06-05 ; Times: 12
+	Date: 2018-06-04 ; Times: 9
+	Date: 2018-06-29 ; Times: 5
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-27 ; Times: 4
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 21
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 9
+	Date: 2018-06-16 ; Times: 4
+	Date: 2018-06-18 ; Times: 4
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "sugar glider" ; Times: 1
+	Query: "order:Accipitriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "Mountain Beaver" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "kangaroo rat" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "grey fox" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "snowy owl" ; Times: 2
+	Query: "specificepithet:minimus genus:psaltriparus haslifestage:1 hasmass:1" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "lemming" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Lynx" ; Times: 1
+	Query: "african Elephant" ; Times: 1
+	Query: "nilgai" ; Times: 5
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(35.784892341187586,-116.70189927220218))&lt;177353" ; Times: 1
+	Query: "grasshopper sparrow" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "Crax rubra" ; Times: 1
+	Query: "white tail deer" ; Times: 1
+	Query: "spotted owl" ; Times: 2
+	Query: "order:Galliformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "order:Passeriformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "pika" ; Times: 2
+	Query: "black bear" ; Times: 4
+	Query: "puffin" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "order:Falconiformes" ; Times: 1
+	Query: "blue footed booby" ; Times: 1
+	Query: "Grizzly Bear" ; Times: 1
+	Query: "flying squirrel" ; Times: 3
+	Query: "sloth" ; Times: 4
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "ocelot" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "vntype:specimen family:dipodidae hassex:1 hasmass:1 haslength:1 hastissue:1" ; Times: 1
+	Query: "order:Strigiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "grizzly bear" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Pika" ; Times: 1
+	Query: "Band-tailed Pigeon" ; Times: 1
+	Query: "order:Columbiformes year &gt;= 1800 year &lt;= 1970 basisofrecord:PreservedSpecimen distance(location,geopoint(36.635854298283164,-118.19603989720218))&lt;471504" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "armadillo" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "coyote" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "bald eagle" ; Times: 5
+	Query: "Spilogale pygmaea" ; Times: 2
+	Query: "hasmass:1" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;Klickitat&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "marbled murrelet" ; Times: 2
+	Query: "gray wolf" ; Times: 2
+	Query: "order:Passeriformes class:Aves year &gt;= 1800 year &lt;= 1969 basisofrecord:PreservedSpecimen distance(location,geopoint(35.82273883574265,-116.43670516153338))&lt;145986" ; Times: 1
+	Query: "Cougar" ; Times: 1
+	Query: "black tail deer" ; Times: 2
+	Query: "African elephant" ; Times: 1
+	Query: "sage grouse" ; Times: 2
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "pigeon guillemot" ; Times: 1
+	Query: "horned puffin" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "oregon" ; Times: 1
+	Query: "order:Strigiformes" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "hyena" ; Times: 1
+
+
+End of report.
