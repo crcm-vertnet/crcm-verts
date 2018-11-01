@@ -1,0 +1,417 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 378
+Number of records retrieved in searches: 3350
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: United States ; Times: 292
+	Country: Israel ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Egypt ; Times: 1
+	Country: Unknown ; Times: 13
+	Country: India ; Times: 11
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 7
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Austria ; Times: 1
+	Country: South Korea ; Times: 4
+	Country: Norway ; Times: 5
+	Country: Serbia ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 10
+	Date: 2018-10-04 ; Times: 24
+	Date: 2018-10-05 ; Times: 5
+	Date: 2018-10-06 ; Times: 2
+	Date: 2018-10-07 ; Times: 6
+	Date: 2018-10-01 ; Times: 24
+	Date: 2018-10-02 ; Times: 9
+	Date: 2018-10-03 ; Times: 19
+	Date: 2018-10-30 ; Times: 11
+	Date: 2018-10-22 ; Times: 5
+	Date: 2018-10-23 ; Times: 11
+	Date: 2018-10-20 ; Times: 2
+	Date: 2018-10-21 ; Times: 2
+	Date: 2018-10-26 ; Times: 19
+	Date: 2018-10-27 ; Times: 6
+	Date: 2018-10-24 ; Times: 5
+	Date: 2018-10-25 ; Times: 6
+	Date: 2018-10-28 ; Times: 6
+	Date: 2018-10-29 ; Times: 25
+	Date: 2018-10-08 ; Times: 27
+	Date: 2018-10-09 ; Times: 10
+	Date: 2018-10-19 ; Times: 3
+	Date: 2018-10-18 ; Times: 18
+	Date: 2018-10-13 ; Times: 15
+	Date: 2018-10-12 ; Times: 37
+	Date: 2018-10-11 ; Times: 11
+	Date: 2018-10-10 ; Times: 18
+	Date: 2018-10-17 ; Times: 3
+	Date: 2018-10-16 ; Times: 8
+	Date: 2018-10-15 ; Times: 25
+	Date: 2018-10-14 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "ardea herodias" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 2
+	Query: "american crow" ; Times: 2
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "northern raccoon year &gt;= 1971" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; (chipmunk) year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "Archilochus alexandri" ; Times: 1
+	Query: "locality:aleutians stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "felis chaus" ; Times: 7
+	Query: "specificepithet:africana genus:Loxodonta hasmass:1" ; Times: 4
+	Query: "aix sponsa" ; Times: 1
+	Query: "baltimore oriole" ; Times: 3
+	Query: "specificepithet:venustus genus:Granatellus" ; Times: 1
+	Query: "titmouse" ; Times: 2
+	Query: "chinchilla mammalia" ; Times: 2
+	Query: "recordedby:Garbe" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "turkey vulture" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "house sparrow" ; Times: 2
+	Query: "specificepithet:alexandri genus:Archilochus year &gt;= 1900 year &lt;= 1970" ; Times: 1
+	Query: "cardinal" ; Times: 2
+	Query: "vntype:specimen specificepithet:nebulosa genus:strix (wing)" ; Times: 1
+	Query: "grus canadensis stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Snowy Owl" ; Times: 2
+	Query: "specificepithet:brandtii genus:Lasiopodomys" ; Times: 1
+	Query: "genus:marmota family:Sciuridae order:Rodentia class:Mammalia" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "ferret" ; Times: 1
+	Query: "specificepithet:gapperi genus:myodes stateprovince:&#34;washington&#34; haslength:1" ; Times: 2
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "specificepithet:talpinus genus:Ellobius" ; Times: 8
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "setophaga pinus" ; Times: 1
+	Query: "specificepithet:umbellus genus:Bonasa hasmass:1" ; Times: 1
+	Query: "megascops kennicottii hastissue:1" ; Times: 1
+	Query: "western screech owl hastissue:1" ; Times: 3
+	Query: "specificepithet:maniculatus genus:Peromyscus hasmass:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:Regulus hastissue:1" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 30
+	Query: "family:Bovidae haslifestage:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen genus:Cistothorus stateprovince:&#34;Nebraska&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aberti genus:Sciurus" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "merganser" ; Times: 1
+	Query: "Asio Otus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "Bird bones hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:surdaster genus:Pedetes" ; Times: 8
+	Query: "Felidae" ; Times: 2
+	Query: "Chaetura vauxi" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "strix nebulosa" ; Times: 1
+	Query: "specificepithet:leucurus genus:Cynomys" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina" ; Times: 1
+	Query: "Falco cherrug" ; Times: 1
+	Query: "cinclus mexicanus" ; Times: 1
+	Query: "myodes gapperi" ; Times: 1
+	Query: "Asio otus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "myodes" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "Branta canadensis stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "skeleton of Lama" ; Times: 2
+	Query: "little blue heron" ; Times: 1
+	Query: "Cygnus buccinator mappable:1" ; Times: 2
+	Query: "Trumpeter swan mappable:1" ; Times: 1
+	Query: "recordedby:KL Dixon" ; Times: 1
+	Query: "grus canadensis stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "sapsucker" ; Times: 2
+	Query: "Dusky grouse hastissue:1" ; Times: 2
+	Query: "family:felidae" ; Times: 1
+	Query: "Marsh Wren" ; Times: 1
+	Query: "9529" ; Times: 1
+	Query: "specificepithet:townsendii genus:Thomomys" ; Times: 1
+	Query: "snow bunting" ; Times: 3
+	Query: "northern cardinal" ; Times: 2
+	Query: "poecile atricapillus" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; (shrew) year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:petaurista genus:Petaurista" ; Times: 1
+	Query: "specificepithet:maculatus genus:Pipilo hasmass:1" ; Times: 1
+	Query: "genus:Loxodonta" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Marmota" ; Times: 1
+	Query: "catharus minimus" ; Times: 1
+	Query: "class:aves locality:pender" ; Times: 1
+	Query: "&#34;lactating&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 2
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "yellow rumped warbler" ; Times: 1
+	Query: "peregrine falcon" ; Times: 2
+	Query: "puma concolor startdayofyear &lt;= 1970" ; Times: 2
+	Query: "erethizon vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:serripennis genus:Stelgidopteryx class:Aves" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "Aix sponsa" ; Times: 3
+	Query: "specificepithet:gapperi genus:myodes stateprovince:&#34;Idaho&#34; haslength:1" ; Times: 1
+	Query: "&#34;lanius excubitor&#34;" ; Times: 1
+	Query: "house finch" ; Times: 1
+	Query: "recordedby:K.L. Dixon" ; Times: 2
+	Query: "ferruginous hawk" ; Times: 1
+	Query: "least tern" ; Times: 3
+	Query: "specificepithet:carolinensis genus:Blarina hasmass:1" ; Times: 1
+	Query: "ocelot" ; Times: 2
+	Query: "specificepithet:melanocephalus genus:Pheucticus hastissue:1" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "northern raccoon" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Arborimus" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "specificepithet:pomo genus:Arborimus" ; Times: 1
+	Query: "genus:Mimus family:Mimidae order:Passeriformes class:Aves" ; Times: 1
+	Query: "Great egret" ; Times: 4
+	Query: "gyrfalcon" ; Times: 1
+	Query: "specificepithet:fulica genus:heliornis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:Aves recordedby:Jacobs" ; Times: 1
+	Query: "Grus canadensis stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:venustus genus:Dipodomys" ; Times: 1
+	Query: "bubo scandiacus" ; Times: 2
+	Query: "specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 1
+	Query: "specificepithet:colubris genus:Archilochus year &gt;= 1900 year &lt;= 1970" ; Times: 1
+	Query: "shrew" ; Times: 1
+	Query: "coragyps atratus" ; Times: 1
+	Query: "specificepithet:borealis stateprovince:&#34;alaska&#34; year &gt;= 1955 year &lt;= 1955" ; Times: 1
+	Query: "american shrew-mole" ; Times: 3
+	Query: "tufted titmouse" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota" ; Times: 1
+	Query: "specificepithet:bulbivorus genus:Thomomys" ; Times: 1
+	Query: "microtus catalognumber:1518" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "Nevada (Churchill)" ; Times: 1
+	Query: "Seaside Sparrow" ; Times: 1
+	Query: "rabbit" ; Times: 2
+	Query: "Sciurus niger stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 4
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "squirrels" ; Times: 1
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "brown-headed cowbird year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "rufous hummingbird" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 5
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "specificepithet:gapperi genus:myodes haslength:1" ; Times: 3
+	Query: "marmota monax stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:heliornis haslifestage:1" ; Times: 1
+	Query: "greater prairie chicken" ; Times: 1
+	Query: "Dryobates pubescens" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "family:apodidae hastissue:1" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "specificepithet:borealis genus:phylloscopus stateprovince:&#34;alaska&#34; year &gt;= 1954 year &lt;= 1956" ; Times: 1
+	Query: "co 2932" ; Times: 1
+	Query: "specificepithet:californica genus:Callipepla hasmass:1" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 3
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "vntype:specimen genus:crocuta" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "Barn Swallow vntype:specimen" ; Times: 7
+	Query: "Sylvilagus aquaticus" ; Times: 3
+	Query: "specificepithet:cooperi genus:Synaptomys hasmass:1" ; Times: 1
+	Query: "Aeronautes saxatalis" ; Times: 1
+	Query: "specificepithet:harrisii genus:Ammospermophilus" ; Times: 1
+	Query: "specificepithet:olympus genus:Marmota" ; Times: 7
+	Query: "asio flammeus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Cynomys hasmass:1" ; Times: 1
+	Query: "mountain beaver" ; Times: 3
+	Query: "zone-tailed hawk" ; Times: 3
+	Query: "EAR 3286" ; Times: 1
+	Query: "buteo swainsoni" ; Times: 2
+	Query: "Leucophaeus atricilla" ; Times: 3
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:CRCM" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "ara ararauna vntype:specimen hasmass:1" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "aves lynn" ; Times: 1
+	Query: "specificepithet:lanigera genus:Chinchilla" ; Times: 1
+	Query: "pica pica" ; Times: 2
+	Query: "specificepithet:albipes genus:Arborimus" ; Times: 8
+	Query: "Panthera pardus" ; Times: 2
+	Query: "elephant" ; Times: 3
+	Query: "vntype:specimen genus:peromyscus year &gt;= 2000 year &lt;= 2018 institutioncode:CRCM hastissue:1" ; Times: 1
+	Query: "giant kangaroo rat" ; Times: 1
+	Query: "specificepithet:idahoensis genus:Thomomys" ; Times: 1
+	Query: "turkey vulture country:&#34;United States&#34;" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Asio otus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "myna" ; Times: 1
+	Query: "bufflehead" ; Times: 2
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 2
+	Query: "blue jay" ; Times: 2
+	Query: "specificepithet:amoena genus:Passerina hastissue:1" ; Times: 1
+	Query: "Egypt" ; Times: 1
+	Query: "Tamias" ; Times: 1
+	Query: "felidae" ; Times: 3
+	Query: "specificepithet:cinereus genus:Sorex hasmass:1" ; Times: 1
+	Query: "genus:Xanthocephalus stateprovince:&#34;Nebraska&#34;" ; Times: 12
+	Query: "specificepithet:interpres genus:Ammospermophilus" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "Loggerhead Shrike" ; Times: 1
+	Query: "genus:Loxodonta haslifestage:1" ; Times: 2
+	Query: "alouatta pigra" ; Times: 3
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 1
+	Query: "sphyrapicus ruber" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 111 (out of 1300 download events in this period)
+Total number of records downloaded: 8091
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 4
+	Country: United States ; Times: 66
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-30 ; Times: 5
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-07 ; Times: 3
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-04 ; Times: 13
+	Date: 2018-10-22 ; Times: 4
+	Date: 2018-10-23 ; Times: 6
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-26 ; Times: 3
+	Date: 2018-10-01 ; Times: 4
+	Date: 2018-10-24 ; Times: 5
+	Date: 2018-10-25 ; Times: 7
+	Date: 2018-10-28 ; Times: 3
+	Date: 2018-10-29 ; Times: 4
+	Date: 2018-10-08 ; Times: 3
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 5
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-13 ; Times: 5
+	Date: 2018-10-12 ; Times: 7
+	Date: 2018-10-11 ; Times: 4
+	Date: 2018-10-10 ; Times: 6
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 7
+	Date: 2018-10-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "Sciurus niger stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "felis chaus" ; Times: 2
+	Query: "ovis canadensis" ; Times: 1
+	Query: "Arborimus longicaudus" ; Times: 1
+	Query: "specificepithet:geoffroyi genus:ateles country:&#34;México&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:satrapa genus:Regulus hastissue:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "onychomys leucogaster AND arizona" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "panthera onca" ; Times: 14
+	Query: "Panthera leo" ; Times: 1
+	Query: "vntype:specimen class:Aves county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Asio Otus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "Ochotona princeps vntype:specimen" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:martes stateprovince:&#34;british columbia&#34; hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:talpoides genus:thomomys county:&#34;yakima&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Asio otus stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 2
+	Query: "skeleton of Lama" ; Times: 3
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "grus canadensis stateprovince:&#34;Nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Sorex preblei" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;chihuahua&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Myotis septentrionalis genus:myotis" ; Times: 1
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 2
+	Query: "Spermophilus columbianus" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "arborimus longicaudus" ; Times: 2
+	Query: "specificepithet:rutilus genus:myodes stateprovince:&#34;british columbia&#34; AND (NOT &#34;island&#34;) hassex:1 haslength:1" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "Corynorhinus" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "onychomys torridus AND arizona" ; Times: 1
+	Query: "Lasionycteris noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "mammals" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "genus:Tamias OR Neotamias OR Eutamias" ; Times: 1
+	Query: "Tamias" ; Times: 1
+	Query: "mammals colombia" ; Times: 1
+	Query: "family:apodidae hastissue:1" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "vntype:specimen specificepithet:adeliae genus:Pygoscelis" ; Times: 1
+	Query: "onychomys leucogaster AND new mexico" ; Times: 2
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "Chiroptera Oaxaca" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "vntype:specimen genus:peromyscus year &gt;= 2000 year &lt;= 2018 institutioncode:CRCM hastissue:1" ; Times: 1
+	Query: "Chiroptera Oaxaca basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:venustus genus:dipodomys" ; Times: 1
+	Query: "specificepithet:oeconomus genus:microtus stateprovince:&#34;alaska&#34; AND (NOT &#34;island&#34;) haslifestage:1 hassex:1 haslength:1" ; Times: 1
+	Query: "snowy owl vntype:specimen" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "peromyscus maniculatus &#34;lactating&#34;" ; Times: 1
+	Query: "county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+
+End of report.
