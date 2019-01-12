@@ -1,0 +1,334 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 223
+Number of records retrieved in searches: 1407
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 18
+	Country: Finland ; Times: 1
+	Country: India ; Times: 14
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 164
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Myanmar [Burma] ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-06 ; Times: 33
+	Date: 2018-12-19 ; Times: 3
+	Date: 2018-12-18 ; Times: 14
+	Date: 2018-12-31 ; Times: 3
+	Date: 2018-12-07 ; Times: 7
+	Date: 2018-12-15 ; Times: 2
+	Date: 2018-12-14 ; Times: 16
+	Date: 2018-12-17 ; Times: 12
+	Date: 2018-12-16 ; Times: 2
+	Date: 2018-12-11 ; Times: 11
+	Date: 2018-12-10 ; Times: 6
+	Date: 2018-12-13 ; Times: 9
+	Date: 2018-12-12 ; Times: 17
+	Date: 2018-12-20 ; Times: 13
+	Date: 2018-12-21 ; Times: 3
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-25 ; Times: 5
+	Date: 2018-12-08 ; Times: 7
+	Date: 2018-12-09 ; Times: 6
+	Date: 2018-12-28 ; Times: 4
+	Date: 2018-12-29 ; Times: 2
+	Date: 2018-12-04 ; Times: 7
+	Date: 2018-12-05 ; Times: 13
+	Date: 2018-12-02 ; Times: 2
+	Date: 2018-12-03 ; Times: 15
+	Date: 2018-12-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "Megascops kennicottii hastissue:1" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "Archilochus alexandri" ; Times: 3
+	Query: "Aplonis opaca CRCM" ; Times: 1
+	Query: "panthera  tigris" ; Times: 1
+	Query: "baltimore oriole" ; Times: 1
+	Query: "badger" ; Times: 1
+	Query: "county:&#34;Napa&#34; stateprovince:&#34;California&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "5271" ; Times: 1
+	Query: "Gavia immer mappable:1" ; Times: 1
+	Query: "genus:puma hasmass:1" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (Anchorage) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:asio genus:megascops" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "Charadrius wilsonia" ; Times: 1
+	Query: "stateprovince:&#34;washington&#34; (p. maniculatus)" ; Times: 1
+	Query: "Birds eggs" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "ardeidae ardea herodias" ; Times: 1
+	Query: "8221" ; Times: 1
+	Query: "Pternistis afer cranchii" ; Times: 1
+	Query: "Melozone aberti" ; Times: 1
+	Query: "specificepithet:atricapillus family:Paridae" ; Times: 1
+	Query: "vulture" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus family:ursidae stateprovince:&#34;Alaska&#34; (Valdez) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "herron skeleton" ; Times: 2
+	Query: "Buteo albonotatus" ; Times: 2
+	Query: "Burrowing owl" ; Times: 4
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 22
+	Query: "sorex tenellus" ; Times: 1
+	Query: "Aplonis opaca" ; Times: 3
+	Query: "specificepithet:merriami genus:Sorex hasmass:1" ; Times: 1
+	Query: "genus:Tyto year &gt;= 1987 year &lt;= 1987" ; Times: 1
+	Query: "felidae puma" ; Times: 1
+	Query: "liver aves" ; Times: 2
+	Query: "lion" ; Times: 1
+	Query: "common raven" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 2
+	Query: "specificepithet:americana genus:Antilocapra haslength:1" ; Times: 1
+	Query: "Grus canadensis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Agapornis" ; Times: 3
+	Query: "puma" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "sorex cinereus" ; Times: 2
+	Query: "Puma concolor mappable:1" ; Times: 1
+	Query: "Morus bassanus mappable:1" ; Times: 1
+	Query: "2173" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Poecile" ; Times: 1
+	Query: "king snake" ; Times: 1
+	Query: "aplonis opaca opaca" ; Times: 4
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "bicolored hawk" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 2
+	Query: "agelaius san francisco" ; Times: 1
+	Query: "Rhipidura rufifrons year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus hastissue:1" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "specificepithet:carolinensis family:Paridae year &lt;= 2017" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "specificepithet:opaca genus:aplonis country:&#34;Northern Mariana Islands&#34;" ; Times: 2
+	Query: "spruce grouse hastissue:1" ; Times: 1
+	Query: "Northern Cardinal" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "specificepithet:umbellus genus:bonasa" ; Times: 1
+	Query: "Evening Grosbeak hastissue:1" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Ardeidae ardea herodias" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 1
+	Query: "genus:cardellina sex:male" ; Times: 1
+	Query: "sylvilagus obscurus" ; Times: 15
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "junco liver" ; Times: 2
+	Query: "Oreoscoptes montanus mappable:1" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus county:&#34;adams&#34;" ; Times: 1
+	Query: "sorex monticolus" ; Times: 1
+	Query: "athene" ; Times: 2
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 2
+	Query: "specificepithet:maritimus genus:ursus family:ursidae stateprovince:&#34;alaska&#34; (Kotzebue) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hermon specificepithet:venustus genus:dipodomys" ; Times: 1
+	Query: "specificepithet:lewis genus:Melanerpes year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "Felidae puma concolor" ; Times: 2
+	Query: "Melanitta fusca mappable:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Poecile year &lt;= 2017" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 2
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "specificepithet:venustus genus:dipodomys institutioncode:CRCM" ; Times: 1
+	Query: "rallus limicola hastissue:1" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus locality:paradise institutioncode:CRCM" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "felidae puma concolor" ; Times: 1
+	Query: "otus asio" ; Times: 2
+	Query: "specificepithet:pusilla genus:Sitta" ; Times: 1
+	Query: "passerina cyanea" ; Times: 2
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:Gila" ; Times: 2
+	Query: "family:Trochilidae class:aves preparations:skull" ; Times: 3
+	Query: "genus:Catharus recordedby:Harris" ; Times: 1
+	Query: "ardea herodias" ; Times: 1
+	Query: "clapper rail" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;Washington&#34; year &gt;= 2010 startdayofyear &gt;= 1 hastissue:1" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "specificepithet:carolinensis family:Paridae" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "tyrannus eggs" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus locality:ewan institutioncode:CRCM" ; Times: 2
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Sterna paradisaea mappable:1" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "phalacrocorax auritus" ; Times: 2
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "felidae" ; Times: 1
+	Query: "Sterna hirundo mappable:1" ; Times: 1
+	Query: "athene cunicularia" ; Times: 2
+	Query: "family:Caprimulgidae preparations:skull" ; Times: 2
+	Query: "order:Apodiformes class:aves preparations:skull" ; Times: 1
+	Query: "Tamias" ; Times: 1
+	Query: "cardinal" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile year = 2016" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus locality:pasco institutioncode:CRCM" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 1
+	Query: "american coot" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "otus" ; Times: 1
+	Query: "setophaga coronata" ; Times: 2
+	Query: "pacific loon" ; Times: 3
+	Query: "specificepithet:townsendii genus:lepus locality:rogerson institutioncode:CRCM" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Nebraska&#34;" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 96 (out of 809 download events in this period)
+Total number of records downloaded: 2457
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 32
+	Country: South Africa ; Times: 2
+	Country: India ; Times: 15
+	Country: France ; Times: 1
+	Country: United States ; Times: 39
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 8
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-17 ; Times: 7
+	Date: 2018-12-16 ; Times: 1
+	Date: 2018-12-11 ; Times: 6
+	Date: 2018-12-10 ; Times: 13
+	Date: 2018-12-12 ; Times: 5
+	Date: 2018-12-20 ; Times: 6
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 4
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-09 ; Times: 18
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-04 ; Times: 4
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "locality:malheur stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "glaucidium gnoma" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "oryzomys melanotis" ; Times: 1
+	Query: "gray bat" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "Syncerus caffer vntype:specimen" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 2
+	Query: "genus:puma hasmass:1" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus locality:Gila" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "hastissue:1 Procyon lotor" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 4
+	Query: "Surnia ulula" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "saccopteryx bilineata" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Molossus rufus" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "genus:puma haslength:1" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "noctilio leporinus" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "megascops kennicottii" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 2
+	Query: "potos flavus" ; Times: 1
+	Query: "Spilogale putorius stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "class:Mammalia county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Nebraska&#34;" ; Times: 2
+
+
+End of report.
