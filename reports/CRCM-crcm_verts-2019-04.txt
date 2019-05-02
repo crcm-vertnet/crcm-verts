@@ -1,0 +1,286 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 161
+Number of records retrieved in searches: 1570
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 126
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Nigeria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 5
+	Date: 2019-04-19 ; Times: 6
+	Date: 2019-04-18 ; Times: 13
+	Date: 2019-04-23 ; Times: 5
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 7
+	Date: 2019-04-11 ; Times: 9
+	Date: 2019-04-10 ; Times: 13
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-02 ; Times: 5
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-06 ; Times: 4
+	Date: 2019-04-22 ; Times: 9
+	Date: 2019-04-05 ; Times: 25
+	Date: 2019-04-20 ; Times: 5
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 3
+	Date: 2019-04-01 ; Times: 4
+	Date: 2019-04-24 ; Times: 9
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-29 ; Times: 5
+	Date: 2019-04-08 ; Times: 9
+	Date: 2019-04-09 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma" ; Times: 1
+	Query: "Sturnus vulgaris vntype:specimen year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "specificepithet:decaocto genus:Streptopelia hastissue:1" ; Times: 4
+	Query: "Myotis septentrionalis year &lt;= 1970" ; Times: 2
+	Query: "family:Mephitidae collectioncode:Mammals institutioncode:CRCM" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 2
+	Query: "specificepithet:tereticaudus genus:spermophilus institutioncode:CRCM" ; Times: 1
+	Query: "puma concolor" ; Times: 5
+	Query: "genus:Spilogale institutioncode:CRCM" ; Times: 1
+	Query: "vulture" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "ferret" ; Times: 1
+	Query: "vntype:specimen genus:Geomys stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "&#34; x &#34; order:Galliformes" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo class:aves year &gt;= 1980 year &lt;= 2005 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crcm 98-4433" ; Times: 2
+	Query: "pileated woodpecker" ; Times: 1
+	Query: "locality:boundary campground" ; Times: 1
+	Query: "genus:Conepatus institutioncode:CRCM" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo class:aves country:&#34;United States&#34; year &gt;= 1990 year &lt;= 2018 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina hastissue:1" ; Times: 1
+	Query: "deer mouse" ; Times: 2
+	Query: "pika body length" ; Times: 2
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 1
+	Query: "maigo luao" ; Times: 5
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 2
+	Query: "images" ; Times: 1
+	Query: "chicken" ; Times: 1
+	Query: "great horned owl" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes sex:male preparations:skeleton" ; Times: 1
+	Query: "northern elephant seal" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 3
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 2
+	Query: "specificepithet:beecheyi genus:Spermophilus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "king snake" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo class:aves year &gt;= 1990 year &lt;= 1995 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ruffed grouse" ; Times: 3
+	Query: "specificepithet:ciris genus:Passerina year &gt;= 1960" ; Times: 1
+	Query: "willow flycatcher" ; Times: 1
+	Query: "Red-naped Sapsucker" ; Times: 2
+	Query: "crcm 49-78" ; Times: 1
+	Query: "Teeth" ; Times: 1
+	Query: "crcm 49-75" ; Times: 2
+	Query: "crcm mammalia 49-78" ; Times: 1
+	Query: "specificepithet:versicolor genus:Passerina year &gt;= 1960" ; Times: 1
+	Query: "recordedby:yocom" ; Times: 1
+	Query: "black-bellied whistling duck" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo class:aves year &gt;= 1990 year &lt;= 2005 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "specificepithet:virginianus genus:bubo class:aves year &gt;= 1990 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "12171 class:mammalia" ; Times: 2
+	Query: "Elephantidae" ; Times: 1
+	Query: "recordedby:tamburelli" ; Times: 1
+	Query: "Pecari tajacu mappable:1" ; Times: 3
+	Query: "parkesia" ; Times: 1
+	Query: "crcm 49-400" ; Times: 2
+	Query: "ocelot" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "Setophaga dominica" ; Times: 1
+	Query: "crcm mammalia 49-2" ; Times: 1
+	Query: "&#34;boundary campground&#34;" ; Times: 1
+	Query: "specificepithet:atricilla genus:Leucophaeus" ; Times: 1
+	Query: "golden eagle" ; Times: 3
+	Query: "crcm 49-2" ; Times: 2
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "genus:Puma" ; Times: 2
+	Query: "locality:herron" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "Strix varia" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 2
+	Query: "recordedby:carpenter year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "crcm mammal 49-2" ; Times: 1
+	Query: "class:aves recordedby:giles" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina year &gt;= 1960 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "12171 class:Mammalia" ; Times: 3
+	Query: "Acinonyx jubatus" ; Times: 2
+	Query: "specificepithet:olivacea genus:Piranga" ; Times: 2
+	Query: "Puma concolor" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 3
+	Query: "Columba livia" ; Times: 3
+	Query: "Black-headed Grosbeak" ; Times: 1
+	Query: "loxodonta" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 6
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus institutioncode:CRCM" ; Times: 2
+	Query: "eremophila alpestris humboldt" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "crcm 49-398" ; Times: 2
+	Query: "genus:strix" ; Times: 1
+	Query: "massing &gt;= 400000 massing &lt;= 1000000 hasmass:1" ; Times: 1
+	Query: "odocoileus" ; Times: 1
+	Query: "&#34;lower klamath&#34;" ; Times: 1
+	Query: "genus:Mephitis institutioncode:CRCM" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "Common raven" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 1263 download events in this period)
+Total number of records downloaded: 3459
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 73
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belize ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 3
+	Date: 2019-04-18 ; Times: 11
+	Date: 2019-04-02 ; Times: 18
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-10 ; Times: 16
+	Date: 2019-04-17 ; Times: 6
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-30 ; Times: 4
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-28 ; Times: 3
+	Date: 2019-04-29 ; Times: 3
+	Date: 2019-04-08 ; Times: 5
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Nebraska" ; Times: 1
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "specificepithet:parellina parellina genus:Cyanocompsa year &gt;= 1940 year &lt;= 2018" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "Parastrellus hesperus" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Nevada" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:aves (Belize)" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "baiomys taylori" ; Times: 1
+	Query: "vntype:specimen family:Cracidae hasmass:1" ; Times: 1
+	Query: "specificepithet:beecheyi genus:spermophilus institutioncode:CRCM" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:thalassinus genus:colibri" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2019" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Northern grasshopper mouse" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Alaska" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Oregon" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "vntype:specimen genus:Geomys stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Washington" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "northern elephant seal" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Idaho" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Montana" ; Times: 1
+	Query: "american mink" ; Times: 1
+	Query: "aptenodytes forsteri" ; Times: 2
+	Query: "california ground squirrel" ; Times: 1
+	Query: "snowshoe hare" ; Times: 1
+	Query: "carollia castanea" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "long-tailed weasel" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Myodes californicus" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex hasmass:1" ; Times: 1
+
+
+End of report.
