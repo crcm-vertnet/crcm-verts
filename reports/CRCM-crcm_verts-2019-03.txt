@@ -1,0 +1,274 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 254
+Number of records retrieved in searches: 1561
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 208
+	Country: Honduras ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 21
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: New Zealand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 26
+	Date: 2019-03-27 ; Times: 9
+	Date: 2019-03-26 ; Times: 7
+	Date: 2019-03-25 ; Times: 5
+	Date: 2019-03-23 ; Times: 3
+	Date: 2019-03-08 ; Times: 9
+	Date: 2019-03-21 ; Times: 9
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-09 ; Times: 4
+	Date: 2019-03-07 ; Times: 23
+	Date: 2019-03-06 ; Times: 41
+	Date: 2019-03-01 ; Times: 3
+	Date: 2019-03-29 ; Times: 11
+	Date: 2019-03-22 ; Times: 4
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-30 ; Times: 4
+	Date: 2019-03-03 ; Times: 4
+	Date: 2019-03-18 ; Times: 11
+	Date: 2019-03-19 ; Times: 3
+	Date: 2019-03-16 ; Times: 3
+	Date: 2019-03-17 ; Times: 7
+	Date: 2019-03-14 ; Times: 15
+	Date: 2019-03-02 ; Times: 6
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 20
+	Date: 2019-03-10 ; Times: 7
+	Date: 2019-03-11 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Loxodonta africana hasmass:1" ; Times: 2
+	Query: "Dryobates nuttallii" ; Times: 1
+	Query: "genus:Aechmophorus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Chickadee" ; Times: 1
+	Query: "county:&#34;jefferson&#34; stateprovince:&#34;wisconsin&#34;" ; Times: 1
+	Query: "genus:Catharus class:Aves catalognumber:1266" ; Times: 4
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "spider monkey" ; Times: 1
+	Query: "Microtus montanus hasmass:1" ; Times: 7
+	Query: "gray jay" ; Times: 1
+	Query: "Mimus polyglottos hasmass:1" ; Times: 4
+	Query: "CM townsend" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 1
+	Query: "geese" ; Times: 1
+	Query: "red crossbill" ; Times: 6
+	Query: "puma concolor" ; Times: 3
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "Setophaga cerulea" ; Times: 2
+	Query: "blue grouse" ; Times: 1
+	Query: "(Johnsgard)" ; Times: 2
+	Query: "genus:Catharus class:Aves catalognumber:1251" ; Times: 1
+	Query: "county:&#34;wayne&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo hastissue:1" ; Times: 3
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM)" ; Times: 1
+	Query: "vntype:specimen specificepithet:savannarum genus:Ammodramus" ; Times: 2
+	Query: "Neotis" ; Times: 1
+	Query: "tamias" ; Times: 1
+	Query: "Crocuta crocuta skeleton" ; Times: 1
+	Query: "indigo bunting" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "streptopelia decaocto" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene" ; Times: 2
+	Query: "genus:Catharus catalognumber:1266" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 20
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Idaho" ; Times: 4
+	Query: "tree sparrow" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Poecile" ; Times: 2
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Montana" ; Times: 4
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo hastissue:1" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:atricapillus genus:Poecile" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Illinois" ; Times: 4
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK)" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Maryland" ; Times: 4
+	Query: "Dendroperdix sephaena kenya" ; Times: 1
+	Query: "Lontra canadensis hasmass:1" ; Times: 1
+	Query: "Elephantidae" ; Times: 2
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "hamster" ; Times: 2
+	Query: "Crocuta crocuta" ; Times: 2
+	Query: "American water shrew vntype:specimen (American water shrew)" ; Times: 1
+	Query: "locality:summit county:&#34;placer&#34;" ; Times: 2
+	Query: "ferruginous hawk" ; Times: 1
+	Query: "Puma concolor hasmass:1" ; Times: 1
+	Query: "Indigo Bunting" ; Times: 1
+	Query: "locality:2 mi S of Oroville" ; Times: 1
+	Query: "ocelot" ; Times: 3
+	Query: "specificepithet:bewickii genus:thryomanes hastissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Washington&#34; (Junco) year &gt;= 1890 year &lt;= 1985" ; Times: 1
+	Query: "Sturnus vulgaris hastissue:1" ; Times: 1
+	Query: "Turdus migratorius hasmass:1" ; Times: 1
+	Query: "Skeleton genus:Onychoprion order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 1
+	Query: "black phoebe" ; Times: 4
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH)" ; Times: 1
+	Query: "Setophaga striata" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "Dendroperdix sephaena" ; Times: 2
+	Query: "Chestnut-backed chickadee" ; Times: 2
+	Query: "specificepithet:gilvus genus:Vireo hasmass:1" ; Times: 1
+	Query: "avian" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Nebraska" ; Times: 4
+	Query: "tufted titmouse" ; Times: 2
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Oregon" ; Times: 4
+	Query: "common goldeneye" ; Times: 2
+	Query: "northern pike" ; Times: 1
+	Query: "poecile carolinensis" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Washington" ; Times: 4
+	Query: "montezuma quail" ; Times: 18
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus)" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "Lark sparrow" ; Times: 1
+	Query: "genus:neotis" ; Times: 2
+	Query: "neovison vison" ; Times: 2
+	Query: "vntype:specimen (American water shrew)" ; Times: 1
+	Query: "Sorex araneus hasmass:1" ; Times: 1
+	Query: "mountain goat" ; Times: 1
+	Query: "institutioncode:CRCM distance(location,geopoint(44.10816899118461,-84.43359375))&lt;352598" ; Times: 1
+	Query: "White-throated Flycatcher" ; Times: 2
+	Query: "ammodramus savannarum" ; Times: 2
+	Query: "Phainopepla" ; Times: 2
+	Query: "Pygmy rattlesnake" ; Times: 2
+	Query: "Dryobates pubescens" ; Times: 1
+	Query: "Rangifer tarandus hasmass:1" ; Times: 1
+	Query: "98-047" ; Times: 1
+	Query: "Lynx canadensis hasmass:1" ; Times: 1
+	Query: "marmot" ; Times: 1
+	Query: "class:Mammalia county:&#34;Montague&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "purple martin" ; Times: 1
+	Query: "phainopepla" ; Times: 1
+	Query: "specificepithet:auratus genus:Colaptes stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Ohio" ; Times: 4
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "Blood Pheasant" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1990 NOT clo" ; Times: 1
+	Query: "genus:Neotis" ; Times: 3
+	Query: "Cyanocitta cristata hasmass:1" ; Times: 1
+	Query: "Vulpes macrotis hasmass:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:atricapillus genus:Poecile" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH NOT FMNH)" ; Times: 1
+	Query: "Mud snake" ; Times: 1
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "american coot" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom)" ; Times: 1
+	Query: "Bell’s Vireo" ; Times: 3
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Panthera leo hasmass:1" ; Times: 1
+	Query: "AMERICAN PIKA" ; Times: 1
+	Query: "Poecile rufescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1281 download events in this period)
+Total number of records downloaded: 2080
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 51
+	Country: United Kingdom ; Times: 1
+	Country: India ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-02 ; Times: 1
+	Date: 2019-03-27 ; Times: 2
+	Date: 2019-03-26 ; Times: 3
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-23 ; Times: 2
+	Date: 2019-03-08 ; Times: 9
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-07 ; Times: 8
+	Date: 2019-03-06 ; Times: 6
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-03 ; Times: 3
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-18 ; Times: 2
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 3
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "class:Mammalia county:&#34;Montague&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "nutria" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "vntype:specimen family:meliphagidae (fluid OR wet)" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "family:Picidae" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo stateprovince:&#34;montana&#34;" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus hasmass:1" ; Times: 2
+	Query: "genus:leopardus country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen specificepithet:papua genus:Pygoscelis" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hasmass:1" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo hastissue:1" ; Times: 1
+	Query: "Sorex tenellus" ; Times: 1
+	Query: "specificepithet:longimembris genus:Perognathus county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Dicrurus macrocercus" ; Times: 1
+	Query: "Crocuta crocuta skeleton" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "order:Artiodactyla stateprovince:&#34;Nunavut&#34; country:&#34;Canada&#34;" ; Times: 2
+	Query: "american coot" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "panthera onca" ; Times: 2
+	Query: "family:Meliphagidae (wet OR alcohol OR alc OR fluid)" ; Times: 1
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Blood Pheasant" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "montezuma quail" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
