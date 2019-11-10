@@ -1,0 +1,387 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 458
+Number of records retrieved in searches: 10508
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Honduras ; Times: 3
+	Country: Cuba ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 379
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 8
+	Country: Thailand ; Times: 38
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 2
+	Date: 2019-09-16 ; Times: 9
+	Date: 2019-09-17 ; Times: 10
+	Date: 2019-09-10 ; Times: 6
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 9
+	Date: 2019-09-13 ; Times: 6
+	Date: 2019-09-18 ; Times: 24
+	Date: 2019-09-19 ; Times: 25
+	Date: 2019-09-30 ; Times: 12
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 35
+	Date: 2019-09-02 ; Times: 4
+	Date: 2019-09-01 ; Times: 6
+	Date: 2019-09-07 ; Times: 3
+	Date: 2019-09-06 ; Times: 94
+	Date: 2019-09-05 ; Times: 41
+	Date: 2019-09-04 ; Times: 7
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-20 ; Times: 4
+	Date: 2019-09-23 ; Times: 10
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 5
+	Date: 2019-09-24 ; Times: 105
+	Date: 2019-09-27 ; Times: 10
+	Date: 2019-09-26 ; Times: 14
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "(Lagopus) AND (&#34;Buteo&#34;)" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "Choeronycteris mexicana haslength:1" ; Times: 1
+	Query: "Myotis volans haslength:1" ; Times: 1
+	Query: "Myotis septentrionalis haslength:1" ; Times: 1
+	Query: "anthus rubescens" ; Times: 1
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 1
+	Query: "genus:Dasypus hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:dryocopus" ; Times: 1
+	Query: "Egretta thula" ; Times: 1
+	Query: "Lagopus lagopus AND (buteo)" ; Times: 2
+	Query: "genus:Delphinus hasmass:1 haslength:1" ; Times: 1
+	Query: "Bootherium" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Martes institutioncode:CRCM" ; Times: 1
+	Query: "Saccopteryx bilineata haslength:1" ; Times: 1
+	Query: "limosa fedoa" ; Times: 1
+	Query: "Carollia castanea haslength:1" ; Times: 1
+	Query: "accipiter cooperii" ; Times: 2
+	Query: "empidonax difficilis year &gt;= 1975 hastissue:1" ; Times: 1
+	Query: "Desmodus rotundus haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2009" ; Times: 1
+	Query: "Myotis lucifugus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1994" ; Times: 6
+	Query: "pecari tajacu" ; Times: 2
+	Query: "specificepithet:delphis genus:Delphinus hasmass:1 haslength:1" ; Times: 1
+	Query: "Setophaga townsendi month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 1
+	Query: "Dolichotis patagonum" ; Times: 1
+	Query: "bay-breasted" ; Times: 1
+	Query: "specificepithet:tolmiei genus:geothlypis stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 3
+	Query: "specificepithet:dorsatum genus:Erethizon hasmass:1 haslength:1" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Molossus rufus haslength:1" ; Times: 1
+	Query: "genus:Plegadis" ; Times: 1
+	Query: "genus:Aptenodytes sex:Female" ; Times: 1
+	Query: "Peromyscus maniculatus 1978" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "&#34;stomach contents saved&#34; class:Aves" ; Times: 1
+	Query: "Peromyscus maniculatus 1979" ; Times: 2
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 3
+	Query: "specificepithet:arctos genus:Ursus hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:nivalis genus:Mustela hasmass:1 haslength:1" ; Times: 1
+	Query: "Molossus molossus haslength:1" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Myotis yumanensis haslength:1" ; Times: 1
+	Query: "white-tailed deer" ; Times: 2
+	Query: "Microtus pennsylvanicus 2014" ; Times: 1
+	Query: "Calidris canutus" ; Times: 10
+	Query: "Empidonax traillii" ; Times: 20
+	Query: "mourning dove wing" ; Times: 1
+	Query: "Mormoops megalophylla haslength:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Oreamnos hasmass:1 haslength:1" ; Times: 1
+	Query: "Artemisia tridentata" ; Times: 1
+	Query: "tricolored blackbird" ; Times: 1
+	Query: "ruby-throated hummingbird" ; Times: 1
+	Query: "Rhinolophus ferrumequinum haslength:1" ; Times: 1
+	Query: "elephants" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Macrotus californicus haslength:1" ; Times: 1
+	Query: "bourne w.r.p." ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 3
+	Query: "order:Carnivora locality:Mexico" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "Perimyotis subflavus haslength:1" ; Times: 1
+	Query: "Aphelocoma californica oregon" ; Times: 1
+	Query: "genus:aegolius AND NOT (funereus) hastissue:1" ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:ursinus genus:Callorhinus hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Vassar" ; Times: 1
+	Query: "genus:limosa haemastica" ; Times: 1
+	Query: "Peromyscus maniculatus 1974" ; Times: 2
+	Query: "Pteropus mariannus haslength:1" ; Times: 1
+	Query: "phalarope" ; Times: 2
+	Query: "nivalis mustela" ; Times: 3
+	Query: "Molossus sinaloae haslength:1" ; Times: 1
+	Query: "genus:Eumetopias family:Otariidae (skull) haslifestage:1 hassex:1" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 18
+	Query: "Grizzly bear museum" ; Times: 1
+	Query: "Myotis ciliolabrum haslength:1" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "duck wings" ; Times: 2
+	Query: "Lasiurus borealis haslength:1" ; Times: 1
+	Query: "Dryobates pubescens" ; Times: 1
+	Query: "lagopus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo class:aves hastissue:1" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "genus:Pelecanus sex:Female preparations:Skeleton (Egg OR Ova OR Ovum OR Ovary OR Oviduct)" ; Times: 1
+	Query: "black headed grosbeak" ; Times: 1
+	Query: "passerina ciris" ; Times: 2
+	Query: "genus: Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1981" ; Times: 4
+	Query: "Peromyscus maniculatus 1980" ; Times: 4
+	Query: "Peromyscus maniculatus 1982" ; Times: 2
+	Query: "groundhog" ; Times: 2
+	Query: "Peromyscus maniculatus 1987" ; Times: 2
+	Query: "Peromyscus maniculatus 1986" ; Times: 2
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "genus:Cebus hasmass:1 haslength:1" ; Times: 1
+	Query: "Glossophaga commissarisi haslength:1" ; Times: 1
+	Query: "genus: Potos hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis velifer haslength:1" ; Times: 1
+	Query: "black headed grosbeak vntype:specimen hastissue:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "genus:Pelecanus sex:Female (Egg OR Ova OR Ovum OR Ovary OR Oviduct)" ; Times: 1
+	Query: "upland sandpiper" ; Times: 2
+	Query: "gray fox" ; Times: 25
+	Query: "panthera leo" ; Times: 2
+	Query: "Balantiopteryx plicata haslength:1" ; Times: 1
+	Query: "western tanager" ; Times: 1
+	Query: "Pteropus poliocephalus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 2008" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 14
+	Query: "Peromyscus maniculatus 2004" ; Times: 1
+	Query: "Peromyscus maniculatus 2007" ; Times: 1
+	Query: "pine vole" ; Times: 3
+	Query: "Peromyscus maniculatus 2001" ; Times: 1
+	Query: "Peromyscus maniculatus 2000" ; Times: 2
+	Query: "(Lagopus) AND (Buteo)" ; Times: 1
+	Query: "Setophaga striata" ; Times: 1
+	Query: "Aphelocoma californica Contra Costa County" ; Times: 1
+	Query: "Peromyscus maniculatus 1998" ; Times: 2
+	Query: "Serinus canaria canaria" ; Times: 1
+	Query: "Peromyscus maniculatus 1997" ; Times: 4
+	Query: "genus:tamias order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1995" ; Times: 2
+	Query: "Peromyscus maniculatus 1992" ; Times: 4
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1991" ; Times: 4
+	Query: "Marmota olympus" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "tufted titmouse" ; Times: 1
+	Query: "genus:didelphis class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 10
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "common yellowthroat" ; Times: 5
+	Query: "Peromyscus maniculatus 1996" ; Times: 4
+	Query: "Microtus pennsylvanicus 2007" ; Times: 1
+	Query: "Microtus pennsylvanicus 2000" ; Times: 1
+	Query: "vireo bellii san diego" ; Times: 1
+	Query: "alcelaphus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "arctic tern" ; Times: 2
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "beluga" ; Times: 2
+	Query: "collared dove" ; Times: 1
+	Query: "vntype:specimen genus:Eumetopias family:Otariidae (skull) haslifestage:1 hassex:1" ; Times: 1
+	Query: "Natalus stramineus haslength:1" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 2011" ; Times: 1
+	Query: "osprey" ; Times: 1
+	Query: "Peromyscus maniculatus 2017" ; Times: 1
+	Query: "(lagopus) NOT (&#34;vulpes&#34;)" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 3
+	Query: "Panthera" ; Times: 1
+	Query: "genus:Cervus hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:jubatus genus:Eumetopias hasmass:1 haslength:1" ; Times: 1
+	Query: "vireo bellii" ; Times: 1
+	Query: "Peromyscus maniculatus 1990" ; Times: 1
+	Query: "Icterus" ; Times: 1
+	Query: "specificepithet: americana genus:Antilocapra hasmass:1 haslength:1" ; Times: 1
+	Query: "Acerodon jubatus haslength:1" ; Times: 1
+	Query: "bay-breasted warbler" ; Times: 2
+	Query: "specificepithet:ararauna genus:Ara year &gt;= 1970 hassex:1" ; Times: 1
+	Query: "Cathartes aura" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Glossophaga soricina haslength:1" ; Times: 1
+	Query: "sharp tailed grouse" ; Times: 1
+	Query: "odocoileus" ; Times: 1
+	Query: "vireo griseus" ; Times: 1
+	Query: "preparations:skeleton dryocopus" ; Times: 3
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "family:SCIURIDAE order:RODENTIA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 2
+	Query: "aplonis skeleton" ; Times: 1
+	Query: "chestnut-sided warbler" ; Times: 1
+	Query: "Microtus pennsylvanicus 2011" ; Times: 1
+	Query: "song sparrow" ; Times: 3
+	Query: "Microtus pennsylvanicus 1984" ; Times: 1
+	Query: "Microtus pennsylvanicus 1985" ; Times: 1
+	Query: "Dryocopus pileatus skeleton" ; Times: 1
+	Query: "Microtus pennsylvanicus 1980" ; Times: 1
+	Query: "Grizzly bear" ; Times: 1
+	Query: "Microtus pennsylvanicus 1982" ; Times: 1
+	Query: "Microtus pennsylvanicus 1983" ; Times: 1
+	Query: "Peromyscus maniculatus 1989" ; Times: 2
+	Query: "hind foot length" ; Times: 1
+	Query: "specificepithet:tolmiei genus:geothlypis year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "parula" ; Times: 1
+	Query: "genus:limosa haemastica institutioncode" ; Times: 2
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 12
+	Query: "Peromyscus maniculatus 1988" ; Times: 2
+	Query: "Microtus pennsylvanicus 1981" ; Times: 1
+	Query: "Aphelocoma californica Santa Clara County" ; Times: 1
+	Query: "Peromyscus maniculatus 1972" ; Times: 12
+	Query: "Peromyscus maniculatus 1973" ; Times: 2
+	Query: "Microtus pennsylvanicus 1975" ; Times: 1
+	Query: "Microtus pennsylvanicus 1974" ; Times: 1
+	Query: "Peromyscus maniculatus 1977" ; Times: 2
+	Query: "Microtus pennsylvanicus 1979" ; Times: 1
+	Query: "Microtus pennsylvanicus 1978" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Nycticeius humeralis haslength:1" ; Times: 1
+	Query: "Delphinapterus leucas skull" ; Times: 1
+	Query: "Lasiurus blossevillii haslength:1" ; Times: 1
+	Query: "genus:scalopus class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Cathartes aura mappable:1" ; Times: 1
+	Query: "(lagopus) AND (&#34;buteo&#34;)" ; Times: 1
+	Query: "Uroderma bilobatum haslength:1" ; Times: 1
+	Query: "specificepithet:discors genus:Anas stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:livia genus:Columba year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "cypseloides niger basisofrecord:PreservedSpecimen country:canada" ; Times: 1
+	Query: "Microtus pennsylvanicus 1999" ; Times: 1
+	Query: "Phyllostomus discolor haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 1996" ; Times: 1
+	Query: "Microtus pennsylvanicus 1995" ; Times: 1
+	Query: "Microtus pennsylvanicus 1994" ; Times: 1
+	Query: "Microtus pennsylvanicus 1993" ; Times: 1
+	Query: "Microtus pennsylvanicus 1992" ; Times: 1
+	Query: "Microtus pennsylvanicus 1991" ; Times: 1
+	Query: "Microtus pennsylvanicus 1990" ; Times: 1
+	Query: "Pteronotus parnellii haslength:1" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 1
+	Query: "Solenodon paradoxus" ; Times: 1
+	Query: "Microtus pennsylvanicus 2008" ; Times: 1
+	Query: "Peromyscus maniculatus 1985" ; Times: 2
+	Query: "mourning dove" ; Times: 1
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 1
+	Query: "specificepithet:angustirostris genus:Mirounga hasmass:1 haslength:1" ; Times: 1
+	Query: "Casuariidae" ; Times: 1
+	Query: "genus:Sciurus niger stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:Spilogale hasmass:1 haslength:1" ; Times: 1
+	Query: "bootherium" ; Times: 1
+	Query: "painted bunting" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Nebraska&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1073 download events in this period)
+Total number of records downloaded: 680
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: Singapore ; Times: 2
+	Country: United States ; Times: 28
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-17 ; Times: 2
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 2
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-26 ; Times: 5
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 3
+	Date: 2019-09-30 ; Times: 4
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-02 ; Times: 4
+	Date: 2019-09-07 ; Times: 2
+	Date: 2019-09-06 ; Times: 6
+	Date: 2019-09-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Marmota olympus" ; Times: 1
+	Query: "prairie vole" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "order:passeriformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Delphinapterus leucas skull" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "order:psittaciformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "Zonotrichia capensis" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "genus:Sciurus niger stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+	Query: "Myioborus miniatus" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Nebraska&#34;" ; Times: 1
+
+
+End of report.
