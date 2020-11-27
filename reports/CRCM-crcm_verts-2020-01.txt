@@ -1,0 +1,336 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 272
+Number of records retrieved in searches: 2271
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: United States ; Times: 212
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 6
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 10
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Peru ; Times: 7
+	Country: Switzerland ; Times: 1
+	Country: Bolivia ; Times: 4
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 6
+	Date: 2020-01-03 ; Times: 14
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-01 ; Times: 2
+	Date: 2020-01-07 ; Times: 11
+	Date: 2020-01-06 ; Times: 5
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-04 ; Times: 12
+	Date: 2020-01-21 ; Times: 15
+	Date: 2020-01-20 ; Times: 13
+	Date: 2020-01-09 ; Times: 6
+	Date: 2020-01-08 ; Times: 11
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 3
+	Date: 2020-01-27 ; Times: 6
+	Date: 2020-01-29 ; Times: 27
+	Date: 2020-01-28 ; Times: 49
+	Date: 2020-01-18 ; Times: 2
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-23 ; Times: 21
+	Date: 2020-01-14 ; Times: 13
+	Date: 2020-01-15 ; Times: 11
+	Date: 2020-01-30 ; Times: 7
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-10 ; Times: 9
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-13 ; Times: 4
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-16 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "common poorwill" ; Times: 3
+	Query: "class:Aves stateprovince:Nevada" ; Times: 1
+	Query: "Melanitta fusca hastissue:1" ; Times: 1
+	Query: "eastern spotted skunk" ; Times: 1
+	Query: "snake vntype:specimen hassex:1 haslength:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "mallard" ; Times: 3
+	Query: "Tufted duck" ; Times: 1
+	Query: "family:Otididae hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Empidonax traillii&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; basisofrecord:preservedspecimen" ; Times: 1
+	Query: "castanea Carollia" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America sex:Female hassex:1 hasmass:1 haslength:1" ; Times: 6
+	Query: "specificepithet:Mephitis genus:Mephitis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter preparations:skin year &gt;= 1980 institutioncode:CRCM" ; Times: 1
+	Query: "mimus" ; Times: 1
+	Query: "Ara militaris" ; Times: 7
+	Query: "puma concolor" ; Times: 6
+	Query: "recordedby:hunt" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:brown basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Primate" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:prill basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "kit fox" ; Times: 1
+	Query: "elephant" ; Times: 3
+	Query: "Phacochoerus aethiopicus mappable:1" ; Times: 2
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 5
+	Query: "&#34;sea otter&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 9
+	Query: "wings" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Male massing &gt;= 750 lengthinmm &gt;= 250 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis continent:North America sex:Male hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "vntype:specimen (Aix sponsa) hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:male massing &gt;= 500 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "White tailed deer" ; Times: 1
+	Query: "Brewer’s sparrow" ; Times: 2
+	Query: "specificepithet:platycercus genus:selasphorus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Mephitis genus:Mephitis continent:North America sex:Male hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:canadensis genus:Branta haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Microtus richardsoni country:&#34;Canada&#34;" ; Times: 1
+	Query: "Mallard Duck" ; Times: 2
+	Query: "Corvus corax" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elephant size" ; Times: 5
+	Query: "sagebrush sparrow" ; Times: 5
+	Query: "oreothlypis" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "order:Scandentia preparations:postcranial" ; Times: 5
+	Query: "rattlesnake" ; Times: 1
+	Query: "boreal owl" ; Times: 1
+	Query: "Purple Gallinule" ; Times: 1
+	Query: "smf" ; Times: 1
+	Query: "American kestrel" ; Times: 2
+	Query: "Dusky Thrush" ; Times: 1
+	Query: "red knot" ; Times: 1
+	Query: "bicolored hawk" ; Times: 2
+	Query: "specificepithet:Vison genus:Mustela continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:villosus genus:Picoides haslength:1" ; Times: 7
+	Query: "vntype:specimen preparations:skeleton haslength:1" ; Times: 1
+	Query: "specificepithet:Vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:ACUTA genus:ANAS continent:NORTH AMERICA lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Odocoileus county:&#34;Douglas&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Sphyrapicus ruber" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus county:&#34;placer&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "black-bellied whistling-duck" ; Times: 1
+	Query: "Fulvous Whistling-Duck minnesota" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 3
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:jewett basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "Phalaenoptilus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Female massing &gt;= 750 lengthinmm &gt;= 250 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "fulvous whistling duck" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 8
+	Query: "southern rock vole" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Alcelaphus buselaphus mappable:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:r.e. Johnson basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys county:&#34;union&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 2
+	Query: "golden eagle" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis country:&#34;Mexico&#34; continent:North America basisofrecord:PreservedSpecimen haslength:1" ; Times: 2
+	Query: "pangolin" ; Times: 1
+	Query: "cape may warbler" ; Times: 1
+	Query: "specificepithet:Rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis country:&#34;Mexico&#34; continent:North America basisofrecord:PreservedSpecimen lengthtype:total length haslength:1" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Male year &gt;= 2006 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "mice" ; Times: 1
+	Query: "short-eared owl" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Male year &gt;= 2008 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "EAR-2555" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Male year &gt;= 2006 massing &gt;= 750 lengthinmm &gt;= 250 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "(Aix sponsa) hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 1
+	Query: "class:aves locality:crater lake stateprovince:&#34;oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 3
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:CRCM" ; Times: 1
+	Query: "vireo bellii" ; Times: 1
+	Query: "Ocelot" ; Times: 1
+	Query: "domesticus Passer" ; Times: 1
+	Query: "strix varia" ; Times: 2
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis continent:North America country:Mexico basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:johnson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;setophaga petechia&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 3
+	Query: "sagebrush" ; Times: 1
+	Query: "genus:ochotona specificepithet:(princeps OR collaris) year&gt;=1916 year&lt;=1920" ; Times: 4
+	Query: "Cheetah" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:walker basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:CRCM" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 3
+	Query: "colinus" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Xanthocephalus xanthocephalus" ; Times: 5
+	Query: "cardinal" ; Times: 2
+	Query: "petechia petechia skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "Northern shoveler" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis country:&#34;Mexico&#34; continent:North America basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "canadensis nebraska aves" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Gabrielson" ; Times: 1
+	Query: "specificepithet:Lotor genus:Procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "short eared owl" ; Times: 2
+	Query: "Quiscalus quiscula" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia" ; Times: 4
+	Query: "genus:Vulpes stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:finley basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:burleigh basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:gabrielson basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "Common merganser" ; Times: 2
+	Query: "Xanthocephalus" ; Times: 3
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:farner basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America sex:Male year &gt;= 2010 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker basisofrecord:PreservedSpecimen" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 104 (out of 1584 download events in this period)
+Total number of records downloaded: 2138
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 74
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 4
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-05 ; Times: 2
+	Date: 2020-01-21 ; Times: 12
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-23 ; Times: 5
+	Date: 2020-01-22 ; Times: 5
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-29 ; Times: 7
+	Date: 2020-01-28 ; Times: 10
+	Date: 2020-01-30 ; Times: 7
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 6
+	Date: 2020-01-17 ; Times: 9
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 6
+	Date: 2020-01-12 ; Times: 12
+	Date: 2020-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Vespertilionidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen hasmass:1" ; Times: 3
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nycticeius humeralis vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "family:Sciuridae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:blossevillii genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Neotoma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Parastrellus hesperus" ; Times: 1
+	Query: "specificepithet:Virginiana genus:Didelphis continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:canadensis genus:Branta haslength:1" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Microtus richardsoni country:&#34;Canada&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "class:Mammalia" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus family:Vespertilionidae" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:villosus genus:Picoides haslength:1" ; Times: 8
+	Query: "&#34;Sturnus vulgaris&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "genus:Chaetodipus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "mus musculus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Myotis lucifugus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes basisofrecord:PreservedSpecimen hasmass:1" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon hasmass:1 haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis country:&#34;Mexico&#34; continent:North America basisofrecord:PreservedSpecimen haslength:1" ; Times: 2
+	Query: "Sturnus" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Perimyotis subflavus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "Lasionycteris noctivagans vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "specificepithet:lutris genus:enhydra (skin)" ; Times: 1
+	Query: "Mormoops megalophylla" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:Sigmodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Eptesicus fuscus vntype:specimen year &gt;= 1935 year &lt;= 1985 lengthtype:total length haslength:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus basisofrecord:PreservedSpecimen haslength:1" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:agilis genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Mephitidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Cursorius family:Glareolidae class:Aves continent:Africa" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "rainier" ; Times: 1
+	Query: "genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+
+
+End of report.
