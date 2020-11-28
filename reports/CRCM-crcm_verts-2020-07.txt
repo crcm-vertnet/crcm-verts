@@ -1,0 +1,246 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 301
+Number of records retrieved in searches: 4200
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 172
+	Country: Denmark ; Times: 3
+	Country: United States ; Times: 91
+	Country: Malaysia ; Times: 3
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Unknown ; Times: 7
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 5
+	Date: 2020-07-21 ; Times: 8
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-27 ; Times: 20
+	Date: 2020-07-25 ; Times: 2
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-01 ; Times: 11
+	Date: 2020-07-03 ; Times: 9
+	Date: 2020-07-02 ; Times: 10
+	Date: 2020-07-04 ; Times: 5
+	Date: 2020-07-07 ; Times: 12
+	Date: 2020-07-06 ; Times: 13
+	Date: 2020-07-23 ; Times: 6
+	Date: 2020-07-29 ; Times: 3
+	Date: 2020-07-18 ; Times: 3
+	Date: 2020-07-19 ; Times: 5
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 7
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-31 ; Times: 70
+	Date: 2020-07-14 ; Times: 7
+	Date: 2020-07-17 ; Times: 4
+	Date: 2020-07-22 ; Times: 8
+	Date: 2020-07-15 ; Times: 5
+	Date: 2020-07-28 ; Times: 80
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 68
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM)" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "genus:peromyscus county:&#34;Saratoga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "chipping sparrow eggs" ; Times: 1
+	Query: "Setophaga petechia" ; Times: 1
+	Query: "house sparrow" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 1
+	Query: "boxer" ; Times: 1
+	Query: "genus:Bubo" ; Times: 3
+	Query: "specificepithet:niger genus:Sciurus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "genus:Gavia stateprovince:&#34;Idaho&#34;" ; Times: 3
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM)" ; Times: 1
+	Query: "fratercula cirrhata" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "northern cardinal" ; Times: 2
+	Query: "common myna" ; Times: 3
+	Query: "worm-eating warbler" ; Times: 1
+	Query: "ACD 4091" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "ACD 4094" ; Times: 1
+	Query: "genus:Conepatus institutioncode:CRCM" ; Times: 3
+	Query: "Amazona ochrocephala vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "bubo virginianus" ; Times: 2
+	Query: "Microtus richardsoni year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Corvus corax" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "accipiter gentilis" ; Times: 3
+	Query: "silver haired bat" ; Times: 1
+	Query: "King snake" ; Times: 1
+	Query: "Todirhamphus OR Todiramphus OR Halcyon Asuncion" ; Times: 1
+	Query: "chipping sparrow nest and eggs" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "class:Aves county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "peafowl" ; Times: 3
+	Query: "county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Accipiter gentilis hastissue:1" ; Times: 2
+	Query: "ruffed grouse" ; Times: 1
+	Query: "numenius americanus" ; Times: 1
+	Query: "Worm-eating warbler vntype:specimen" ; Times: 1
+	Query: "Thalasseus bergii" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "MO" ; Times: 1
+	Query: "Chroicocephalus philadelphia" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 3
+	Query: "manis pentadactyla continent:Asia" ; Times: 1
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "genus:bubo" ; Times: 1
+	Query: "bat genus:Lasionycteris year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 91
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "specificepithet:carolinensis genus:sciurus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon hastissue:1" ; Times: 2
+	Query: "Ardea alba alba" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "ursus maritimus" ; Times: 4
+	Query: "specificepithet:occidentalis" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "Los Angeles Zoo" ; Times: 1
+	Query: "genus:Puma" ; Times: 3
+	Query: "Cursorius temminckii" ; Times: 1
+	Query: "northern goshawk" ; Times: 2
+	Query: "family:Cricetidae" ; Times: 2
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vireo bellii" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus county:&#34;Saratoga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "chroicocephalus philadelphia" ; Times: 6
+	Query: "Gray Jay" ; Times: 1
+	Query: "limnodromus griseus" ; Times: 2
+	Query: "genus:blarina county:&#34;Warren&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU)" ; Times: 1
+	Query: "elephant" ; Times: 5
+	Query: "megaceryle alcyon" ; Times: 3
+	Query: "Jaguar" ; Times: 1
+	Query: "cackling goose" ; Times: 2
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "7333" ; Times: 2
+	Query: "Brachylagus idahoensis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 940 download events in this period)
+Total number of records downloaded: 11280
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 28
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: South Korea ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-27 ; Times: 3
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-30 ; Times: 3
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-23 ; Times: 4
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 4
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-28 ; Times: 6
+	Date: 2020-07-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:Aves county:&#34;Somerset&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus" ; Times: 2
+	Query: "bat genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys" ; Times: 1
+	Query: "spotted skunk" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "northern cardinal" ; Times: 1
+	Query: "cackling goose" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex hastissue:1" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "manis pentadactyla continent:Asia" ; Times: 1
+	Query: "bat genus:Lasionycteris noctivagans continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "fluid vntype:specimen order:Chiroptera" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "panthera onca" ; Times: 1
+	Query: "family:Dasyuridae (zoo OR captive)" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+
+
+End of report.
