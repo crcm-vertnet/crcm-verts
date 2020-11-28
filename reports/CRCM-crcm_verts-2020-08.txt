@@ -1,0 +1,357 @@
+Report for Institution Code CRCM, Resource crcm_verts
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 286
+Number of records retrieved in searches: 2717
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: United States ; Times: 165
+	Country: Algeria ; Times: 2
+	Country: Portugal ; Times: 26
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 71
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Ecuador ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 6
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-26 ; Times: 8
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 5
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-12 ; Times: 3
+	Date: 2020-08-11 ; Times: 11
+	Date: 2020-08-10 ; Times: 33
+	Date: 2020-08-31 ; Times: 4
+	Date: 2020-08-30 ; Times: 3
+	Date: 2020-08-19 ; Times: 31
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-27 ; Times: 7
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 8
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-06 ; Times: 31
+	Date: 2020-08-07 ; Times: 5
+	Date: 2020-08-08 ; Times: 7
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-24 ; Times: 16
+	Date: 2020-08-25 ; Times: 13
+	Date: 2020-08-22 ; Times: 2
+	Date: 2020-08-23 ; Times: 6
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 76
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas acuta" ; Times: 1
+	Query: "specificepithet:lanigera genus:Chinchilla hasmass:1" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "spilogale pygmaea" ; Times: 1
+	Query: "Macaca fascicularis" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 2
+	Query: "small mammal" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "pygmy rattlesnake" ; Times: 1
+	Query: "Mandrillus sphinx" ; Times: 1
+	Query: "Chlorocebus aethiops" ; Times: 1
+	Query: "mappable:1 scientificname:Phasianus colchicus" ; Times: 1
+	Query: "Vicuna" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "specificepithet:monticolus genus:sorex hasmass:1" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 1
+	Query: "bird eggs nebraska" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 3
+	Query: "Piranga ludoviciana" ; Times: 1
+	Query: "appalachian cottontail" ; Times: 1
+	Query: "mappable:1 scientificname:Cathartes aura" ; Times: 1
+	Query: "loxodonta" ; Times: 2
+	Query: "Phalacrocorax penicillatus" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "mappable:1 scientificname:Lamprotornis superbus" ; Times: 1
+	Query: "family:Trochilidae institutioncode:CRCM hastissue:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Bonasa umbellus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus hasmass:1" ; Times: 1
+	Query: "mappable:1 scientificname:Coturnix japonica" ; Times: 1
+	Query: "Aratinga" ; Times: 1
+	Query: "mappable:1 scientificname:Dolichonyx oryzivorus" ; Times: 1
+	Query: "Swamp rabbit" ; Times: 6
+	Query: "worm-eating warbler" ; Times: 1
+	Query: "mappable:1 scientificname:Eudocimus albus" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "F. domesticus" ; Times: 1
+	Query: "mappable:1 scientificname:Aythya valisineria" ; Times: 1
+	Query: "DPM 506" ; Times: 1
+	Query: "Brown-headed Nuthatch" ; Times: 4
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "specificepithet:townsendi genus:Myadestes year &gt;= 1975 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Tamiasciurus" ; Times: 1
+	Query: "mappable:1 scientificname:Serinus canaria" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 4
+	Query: "elephants" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona ochrocephala" ; Times: 1
+	Query: "traits" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "Gracula religiosa" ; Times: 1
+	Query: "Ixoreus naevius" ; Times: 1
+	Query: "Lepus othus" ; Times: 1
+	Query: "genus:cavia haslength:1" ; Times: 1
+	Query: "Dumetella carolinensis hasmass:1" ; Times: 1
+	Query: "rattlesnake" ; Times: 2
+	Query: "Crossoptilon auritum" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "L. canus" ; Times: 1
+	Query: "specificepithet:melanicterus genus:Cassiculus" ; Times: 1
+	Query: "mappable:1 scientificname:Chrysolophus pictus" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Phacochoerus" ; Times: 1
+	Query: "rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "Lophura swinhoii" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "stateprovince:&#34;Connecticut&#34;" ; Times: 2
+	Query: "sylvilagus aquaticus" ; Times: 4
+	Query: "Felis catus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina passerina" ; Times: 1
+	Query: "mappable:1 scientificname:Anas cyanoptera" ; Times: 1
+	Query: "Cardinalis cardinalis hasmass:1" ; Times: 1
+	Query: "Gallinula chloropus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "mappable:1 scientificname:Melopsittacus undulatus" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "gene" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "Ptychoramphus aleuticus" ; Times: 1
+	Query: "locality:summit peak" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "swamp rabbit" ; Times: 2
+	Query: "kit fox" ; Times: 1
+	Query: "Warbling Vireo" ; Times: 2
+	Query: "mappable:1 scientificname:Aix sponsa" ; Times: 1
+	Query: "Passerina cyanea hasmass:1" ; Times: 1
+	Query: "Good genus:Tamias institutioncode:CRCM" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "horned lark" ; Times: 9
+	Query: "Dasymys incomtus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "specificepithet:obscurus genus:Sylvilagus" ; Times: 1
+	Query: "Sweetwater county:&#34;Mono&#34;" ; Times: 3
+	Query: "specificepithet:jubatus genus:Acinonyx" ; Times: 2
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "Chrysolophus amherstiae" ; Times: 1
+	Query: "pacific swallow" ; Times: 1
+	Query: "west indian manatee" ; Times: 7
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Larus occidentalis" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "mappable:1 scientificname:Numida meleagris" ; Times: 1
+	Query: "San Diego Zoo" ; Times: 2
+	Query: "pangolin" ; Times: 1
+	Query: "&#34;Dipodomys ordii&#34; stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 3
+	Query: "mappable:1 scientificname:Oxyura jamaicensis" ; Times: 1
+	Query: "Melopsittacus undulatus" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Sylvilagus obscurus" ; Times: 2
+	Query: "mappable:1 scientificname:Gracula religiosa" ; Times: 1
+	Query: "strix varia" ; Times: 2
+	Query: "barred owl" ; Times: 7
+	Query: "Xema sabini" ; Times: 1
+	Query: "specificepithet:gulo genus:gulo haslength:1" ; Times: 1
+	Query: "genus:Agapornis" ; Times: 5
+	Query: "specificepithet:latrans genus:canis preparations:skin institutioncode:CRCM" ; Times: 1
+	Query: "Hybomys trivirgatus" ; Times: 1
+	Query: "Vicuna vicuna" ; Times: 2
+	Query: "specificepithet:astutus genus:Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Melopsittacus undulatus vntype:specimen hassex:1 hastissue:1" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "mappable:1 scientificname:Coragyps atratus" ; Times: 1
+	Query: "genus:sylvilagus obscurus" ; Times: 1
+	Query: "mappable:1 scientificname:Xanthocephalus xanthocephalus" ; Times: 1
+	Query: "genus:agapornis" ; Times: 1
+	Query: "Demboski genus:Tamias institutioncode:CRCM" ; Times: 4
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2020" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 3
+	Query: "743" ; Times: 4
+	Query: "patagonian mara" ; Times: 1
+	Query: "specificepithet:caligata genus:Marmota haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "mappable:1 scientificname:Agapornis roseicollis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "sitta ovary" ; Times: 2
+	Query: "specificepithet:cinereus genus:Sorex" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 1
+	Query: "Macaca nemestrina" ; Times: 1
+	Query: "mappable:1 scientificname:Haliaeetus leucocephalus" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; porcupine" ; Times: 1
+	Query: "Haemorhous cassinii" ; Times: 1
+	Query: "mappable:1 scientificname:Aratinga nenday" ; Times: 1
+	Query: "mappable:1 scientificname:Buteo regalis" ; Times: 1
+	Query: "Regulus regulus" ; Times: 1
+	Query: "mappable:1 scientificname:Alectoris chukar" ; Times: 1
+	Query: "catalognumber:83-216 institutioncode:CRCM" ; Times: 1
+	Query: "Larus heermanni" ; Times: 1
+	Query: "Anas formosa" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 8
+	Query: "mappable:1 scientificname:Meleagris gallopavo" ; Times: 1
+	Query: "shore lark" ; Times: 1
+	Query: "M. auratus" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "Zenaida asiatica hasmass:1" ; Times: 2
+	Query: "specificepithet:lanigera genus:Chinchilla haslength:1" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Setophaga americana" ; Times: 2
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "Falcipennis falcipennis" ; Times: 1
+	Query: "Anas platyrhynchos" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "recordedby:clark year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:aquaticus genus:Sylvilagus" ; Times: 6
+	Query: "mappable:1 scientificname:Parabuteo unicinctus" ; Times: 1
+	Query: "specificepithet:alleni genus:lepus haslength:1" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Raptors" ; Times: 3
+	Query: "cathartes" ; Times: 1
+	Query: "hummingbird" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 3
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Crossoptilon mantchuricum" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "bog lemming Kansas" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+	Query: "specificepithet:crocuta genus:Crocuta hasmass:1" ; Times: 1
+	Query: "Phalacrocorax auritus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 756 download events in this period)
+Total number of records downloaded: 14364
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: United States ; Times: 61
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 3
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 4
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-30 ; Times: 3
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-08 ; Times: 10
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-07 ; Times: 6
+	Date: 2020-08-26 ; Times: 8
+	Date: 2020-08-24 ; Times: 7
+	Date: 2020-08-25 ; Times: 5
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Mustela stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spilogale pygmaea" ; Times: 1
+	Query: "Warbling Vireo" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus haslifestage:1" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "order:Rodentia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "genus:Vulpes stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "alauda" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "family:Trochilidae hastissue:1" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Mammals Bolivia La PAz" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "class:Mammalia" ; Times: 3
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "Good genus:Tamias institutioncode:CRCM" ; Times: 1
+	Query: "Demboski genus:Tamias institutioncode:CRCM" ; Times: 3
+	Query: "genus:Mustela stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "family:alcedinidae hastissue:1" ; Times: 1
+
+
+End of report.
